@@ -9,7 +9,7 @@ infectious disease).
 Mean character-level Levenshtein distance between predicted `Answer` and the
 hidden reference answer (lower is better). Reference answers are short, fixed
 sentences pulled from a small pool — see `docs/benchmark_notes.md` for what
-this implies about strategy (retrieval > free-form generation).
+this implies about strategy (retrieval > free-form generation)
 
 ## Repo structure
 ```
@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 ## Team
 - Damola Adams
-- (add teammates here)
+- 
 
 ## Running the baseline
 ```bash
