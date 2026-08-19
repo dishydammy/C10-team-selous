@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Environment
+.env
+
+# Large/derived data (keep raw provided data, ignore heavy generated artifacts)
+data/processed/*.npy
+data/processed/*.pkl
+*.faiss
