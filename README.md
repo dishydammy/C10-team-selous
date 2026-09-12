@@ -21,56 +21,65 @@ transparency, empathy, and community well-being.
 
 ## Dataset
 
-The knowledge base combines two sources:
-- **Original documents** collected from verified public-health organizations
-  (WHO, UNICEF, CDC, and relevant Nigerian health authorities), covering
-  maternal health, chronic disease, infectious disease, medication safety,
-  nutrition, vaccination, emergency triage, mental-health basics, and
-  child/infant health.
-- **Synthetic documents** (48 total, 6 per topic) written to target likely
-  user questions rather than generic articles, improving practical coverage.
+### Question–answer pairs
 
-Testing showed the **combined** set outperforms either alone. Each document
-carries simplified metadata (`Source_ID`, `File_Name`, `Topic`, `Population`,
-`Care_Setting`) used for structured filtering, not embedded content. We
-prioritized reusable, attributable sources, avoided any personally
-identifiable health information, and included Nigerian/African guidance
-alongside global sources to reduce Global-North-only cultural mismatch.
+| File | Rows | Description |
+|---|---|---|
+| `data/raw/train_qa.csv` | 43 | Original benchmark training set (question, topic, care_setting, population, document_id, reference_answer, QuestionId) |
+| `data/raw/test_questions.csv` | 11 | Test questions (no reference_answer column) |
+| `data/raw/sample_submission.csv` | 11 | Example submission format |
+| `data/processed/train_qa.csv` | 83 | Augmented training set (same schema, roughly 2× the original) |
 
-Reference answers for evaluation come from the provided benchmark dataset;
-care was taken to avoid reference-answer leakage into the retrieval index.
+### Knowledge-base documents
 
-## Training Pipeline
+The knowledge base combines two collections of plain-text documents, organized
+by topic in `data/processed/`:
 
-**Data collection & preprocessing:** Documents (DOCX/PDF/TXT) are text-
-extracted, cleaned, and split using structure-aware chunking (~250–350
-tokens/chunk, ~40–80 token overlap), preserving headings and paragraph
-boundaries. Metadata is attached per chunk.
+- **`data_one/`** — 104 documents across 9 topics (child/infant health,
+  chronic disease, emergency triage, infectious diseases, maternal health,
+  medication safety, mental-health basics, nutrition, vaccination), collected
+  from verified public-health sources (WHO, UNICEF, CDC, Nigerian health
+  authorities).
+- **`data_two/`** — 48 synthetic documents (6 per topic × 8 topics), written
+  to target likely user questions rather than generic articles, improving
+  practical coverage.
 
-**Embedding & indexing:** Chunks are embedded with `intfloat/e5-small-v2`
-using the asymmetric `passage:`/`query:` prefix convention, normalized, and
-stored in a persisted ChromaDB collection (`kb_combined`). Queries are
-embedded with the `query:` prefix; top-k (k=3) semantic retrieval is used,
-optionally narrowed by `Topic` metadata.
+Each collection includes a `metadata.csv` with structured fields
+(`Source_ID`, `File_Name`, `Topic`, `Population`, `Care_Setting`) used for
+filtering, not embedded content.
 
-**Model & fine-tuning:** We evaluated small, resource-efficient models
-suited to constrained hardware — an earlier configuration used
-`unsloth/Qwen3-4B-unsloth-bnb-4bit` (4-bit), with a later direction toward
-Gemma variants. Fine-tuning uses LoRA/PEFT (rank 16, alpha 16, dropout 0.0,
-lr 1e-4, batch size 2, grad accumulation 4, 4-bit loading), mapping
-`question + retrieved evidence → short answer` rather than memorizing
-documents. Validation split = 0.15, random_state = 3407. Epoch count was
-reduced from an initial 14 (unnecessarily long) toward fewer epochs, since
-the goal is reliable terse output, not training duration.
+`data/raw/documents.csv` contains 24 shorter document summaries (3 per
+topic, all synthetic) — a separate, compact reference set.
 
-**Key design choices:** The system prompt frames the model as a "terse
-clinical quick-reference," avoiding greetings and repetition. Output length
-is controlled via `max_new_tokens` plus a post-generation character cap from
-reference-answer length quantiles, preferring generation limits over
-aggressive truncation (which risks cutting safety-critical instructions). A
-lightweight safety review scans outputs for escalation terms (e.g.,
-"hospital," "urgent," "dose," "pharmacist") for medication and emergency
-questions.
+## Pipeline
+
+The `src/` directory implements a **retrieval-only** pipeline (no LLM
+generation at inference time). The approach:
+
+1. **Embed** training questions with `intfloat/e5-small-v2` (asymmetric
+   `passage:`/`query:` prefixes, L2-normalized).
+2. **Retrieve** — for each incoming question, find the most similar training
+   question by cosine similarity over the embeddings.
+3. **Copy** — return that neighbor's `reference_answer` verbatim as the
+   prediction.
+4. **Safety review** — scan high-risk topics (emergency triage, medication
+   safety) for escalation keywords; flag answers missing safety-net language
+   in a separate report.
+
+A near-duplicate threshold (`cosine ≥ 0.92`) allows confident direct copies;
+below that, the top-k nearest exemplars still provide the answer.
+
+### Fine-tuning (notebooks only)
+
+LoRA/PEFT fine-tuning with `unsloth/Qwen3-4B-unsloth-bnb-4bit` and a
+ChromaDB-backed RAG pipeline were explored in the Colab notebooks under
+`notebooks/`. These require a GPU and are **not** part of the local `src/`
+pipeline. See the notebooks for details:
+
+- `team_selous_finetune.ipynb` — retrieval-assisted LoRA fine-tuning with
+  cross-validation.
+- `team_selous_rag_finetune_v2.ipynb` — full RAG + ChromaDB + SFT training
+  + inference pipeline (Colab/Kaggle GPU required).
 
 ## Evaluation
 
@@ -91,33 +100,81 @@ participatory-design sessions with prospective users assess clarity, tone,
 and cultural fit. Feedback from both feeds back into the dataset, escalation
 rules, and test cases.
 
-## Reproduction
+## Running locally
+
+**Prerequisites:** Python 3.9+. No GPU required — the `src/` pipeline runs
+on CPU (the E5-small-v2 embedding model is ~130 MB).
 
 ```bash
+# 1. Clone and enter the repo
+git clone <repo-url>
+cd selous-health-qa
+
+# 2. Create a virtual environment and install dependencies
 python -m venv venv
-source venv/bin/activate
+source venv/bin/activate        # on Windows: venv\Scripts\activate
 pip install -r requirements.txt
+
+# 3. Run the full pipeline (validate → predict → write submission)
+python -m src.run_pipeline
 ```
 
-Run in order:
-1. `src/build_knowledge_base.py` — chunk, embed, and load documents into
-   ChromaDB (`kb_combined` collection).
-2. `src/tfidf_baseline.py` — reproduce the TF-IDF retrieval baseline →
-   `submissions/tfidf_baseline_submission.csv`.
-3. `src/train_sft.py` — LoRA fine-tuning on question + retrieved-evidence →
-   short-answer pairs.
-4. `src/generate_answers.py` — run RAG inference (retrieval + generation +
-   safety review) over `test_questions.csv` → `submissions/submission.csv`.
-5. `src/evaluate.py` — compute mean Levenshtein distance and other metrics
-   against reference answers.
+This will:
+1. Load `data/raw/train_qa.csv` and split into train (85%) / validation (15%).
+2. Build an embedding index on the train split.
+3. Predict on the validation split and print the **mean Levenshtein distance**.
+4. Rebuild the index on the full training set.
+5. Predict on `data/raw/test_questions.csv`.
+6. Write `submissions/submission.csv` and `submissions/safety_review.csv`.
 
-Repo structure:
+### TF-IDF baseline (standalone)
+
+```bash
+# Run from the data/raw/ directory (the script uses relative CSV paths)
+cd data/raw
+python ../../src/tfidf_baseline.py
 ```
-data/        raw/ (untouched originals), processed/ (chunks, embeddings)
-src/         pipeline scripts (build KB, train, generate, evaluate)
-notebooks/   exploration and experiments
-submissions/ generated submission.csv files
-docs/        benchmark notes and write-ups
+
+This produces a `submission.csv` in the current directory using TF-IDF
+cosine similarity instead of learned embeddings.
+
+## Repo structure
+
+```
+selous-health-qa/
+├── data/
+│   ├── raw/
+│   │   ├── train_qa.csv              # 43 labelled QA pairs (benchmark)
+│   │   ├── test_questions.csv        # 11 test questions (no answers)
+│   │   ├── documents.csv             # 24 compact document summaries
+│   │   └── sample_submission.csv     # submission format example
+│   └── processed/
+│       ├── data_one/                 # 104 original source documents (.txt), 9 topics
+│       │   └── metadata.csv          # per-document metadata
+│       ├── data_two/                 # 48 synthetic documents (.txt), 8 topics × 6
+│       │   └── metadata.csv          # per-document metadata
+│       └── train_qa.csv              # 83-row augmented training set
+├── src/
+│   ├── __init__.py                   # package marker
+│   ├── config.py                     # paths and hyperparameters
+│   ├── data.py                       # load CSVs, train/val split
+│   ├── retrieval.py                  # E5 embeddings, StyleExemplarIndex
+│   ├── inference.py                  # nearest-neighbor prediction, Levenshtein, safety review
+│   ├── tfidf_baseline.py            # standalone TF-IDF baseline script
+│   └── run_pipeline.py              # end-to-end entry point (validate → predict → submit)
+├── notebooks/
+│   ├── team_selous_finetune.ipynb             # LoRA fine-tuning (Colab, GPU)
+│   └── team_selous_rag_finetune_v2.ipynb      # RAG + ChromaDB + SFT (Colab, GPU)
+├── submissions/
+│   ├── baseline_submission.csv       # pre-generated baseline output
+│   └── tfidf_baseline_submission.csv # pre-generated TF-IDF output
+├── docs/
+│   ├── Team Selous Data Card.pdf
+│   ├── Team Selous Impact Statement.pdf
+│   ├── Team Selous Problem Statement.pdf
+│   └── Team Selous Stakeholder Engagement Plan.pdf
+├── requirements.txt                  # pandas, scikit-learn, numpy, sentence-transformers
+└── README.md
 ```
 
 ## Appendix

@@ -1,0 +1,84 @@
+question,topic,care_setting,population,document_id,reference_answer,QuestionId
+BP readings improved — skip tablets this weekend?,chronic_disease,primary_care,adult,doc_chr_002,No — never stop antihypertensives abruptly without clinician review.,1
+Pregnant and always tired — common workup?,maternal_health,primary_care,pregnant,doc_mat_003,Screen for anaemia and treat with iron plus dietary support.,2
+When should someone with flu-like symptoms stay home?,infectious_disease,community,general,doc_inf_002,While febrile to reduce spread at school or work.,3
+How do I manage type 2 diabetes day to day?,chronic_disease,primary_care,adult,doc_chr_001,"Balance meals, stay active, take medicines as prescribed, and monitor glucose as directed.",4
+Feverish toddler — paracetamol cautions?,medication_safety,home,child,doc_med_003,Use weight-based doses and avoid exceeding daily maximums.,5
+Can I stop antibiotics when I feel better?,medication_safety,primary_care,general,doc_med_001,Finish the full course unless a clinician tells you to stop.,6
+When does child diarrhoea need facility care?,emergency_triage,primary_care,child,doc_emg_003,"Unable to drink, sunken eyes, little urine, blood in stool, or persistent vomiting.",7
+How long should exclusive breastfeeding last?,nutrition,community,infant,doc_nut_001,"First six months, then add complementary foods while continuing breastfeeding.",8
+Should I stop antimalarials when fever goes down?,infectious_disease,community,general,doc_inf_001,Complete the full prescribed course.,9
+How many antenatal visits are recommended?,maternal_health,primary_care,pregnant,doc_mat_001,"At least eight contacts with BP, anaemia screening, and growth checks.",10
+Coughing colleague at work — hygiene advice?,infectious_disease,community,general,doc_inf_002,"Cover coughs, wash hands, and stay home if febrile.",11
+When is low mood worth professional help?,mental_health_basics,primary_care,adult,doc_men_002,Most days for two weeks with work or relationship interference.,12
+Chest pain that needs emergency care?,emergency_triage,hospital,adult,doc_emg_002,"Crushing pain, radiation to jaw or arm, or pain with breathlessness.",13
+Newborn feeding — anything besides formula before six months?,nutrition,community,infant,doc_nut_001,Exclusive breastfeeding is recommended for the first six months.,14
+Can I stop blood pressure pills if readings look normal?,chronic_disease,primary_care,adult,doc_chr_002,No — do not stop abruptly without clinician review.,15
+Heavy bleeding one week after delivery?,maternal_health,primary_care,pregnant,doc_mat_002,Seek care immediately for heavy postpartum bleeding.,16
+Tips for better sleep during stress?,mental_health_basics,home,adult,doc_men_001,"Regular sleep times, less evening screen use, cool dark room, relaxation breathing.",17
+Why keep a child immunisation card?,vaccination,primary_care,child,doc_vac_001,"Documents doses for school entry, travel, and catch-up planning.",18
+Racing thoughts at bedtime — non-drug tips?,mental_health_basics,home,adult,doc_men_001,"Consistent schedule, limit screens, and use relaxation breathing.",19
+Stepped on a rusty nail — tetanus question?,vaccination,primary_care,adult,doc_vac_003,Clean the wound and get tetanus booster if status uncertain.,20
+Preventing micronutrient gaps in children?,nutrition,primary_care,child,doc_nut_003,Varied diet plus programme supplements like vitamin A where recommended.,21
+First treatment for child diarrhoea?,infectious_disease,community,child,doc_inf_003,Oral rehydration solution to prevent dehydration.,22
+Plate looks mostly rice and meat — healthier split?,nutrition,community,adult,doc_nut_002,"Half produce, quarter whole grains, quarter protein.",23
+What belongs in a child asthma action plan?,chronic_disease,primary_care,child,doc_chr_003,"Daily controller inhaler use, reliever instructions, and trigger avoidance.",24
+Sad most days for a month — threshold for help?,mental_health_basics,primary_care,adult,doc_men_002,Two weeks of most-day low mood affecting daily function warrants support.,25
+Tight chest and short of breath — action?,emergency_triage,hospital,adult,doc_emg_002,Call emergency services; may be a cardiac emergency.,26
+ORS not accepted by sick child — next step?,emergency_triage,primary_care,child,doc_emg_003,Escalate if unable to drink or dehydration signs appear.,27
+Missed measles dose at nine months — options?,vaccination,primary_care,child,doc_vac_002,Follow the national catch-up schedule for missed doses.,28
+How to help an anxious teen missing school?,mental_health_basics,school,child,doc_men_003,"Validate feelings, keep routines, refer if avoidance blocks attendance.",29
+Best handwashing practice?,infectious_disease,community,general,doc_inf_002,Soap for at least twenty seconds before eating and after toilet use.,30
+Paracetamol safety for children?,medication_safety,home,child,doc_med_003,"Weight-based dosing, avoid duplicate products, do not exceed label maximum.",31
+Postpartum warning signs for mothers?,maternal_health,primary_care,pregnant,doc_mat_002,"Heavy bleeding, foul discharge, fever, or severe abdominal pain.",32
+Asthma emergency signs in a child?,chronic_disease,primary_care,child,doc_chr_003,"Blue lips, unable to speak full sentences, or reliever not helping.",33
+Pills in the bathroom cabinet — safe?,medication_safety,home,general,doc_med_002,"Heat and humidity harm medicines; store cool, dry, and child-safe.",34
+Vaccinate a child with a mild cold?,vaccination,primary_care,child,doc_vac_002,Usually postpone if moderate illness with high fever unless clinician advises otherwise.,35
+Mosquito nets plus what else for malaria?,infectious_disease,community,general,doc_inf_001,Drain stagnant water and test fevers; complete full antimalarial courses.,36
+Safe medicine storage at home?,medication_safety,home,general,doc_med_002,"Original containers, cool dry place, away from children, check expiry dates.",37
+Blood sugar is high — daily habits besides pills?,chronic_disease,primary_care,adult,doc_chr_001,"Balanced meals, physical activity, and glucose monitoring as directed.",38
+Diarrhoea red flags in children?,infectious_disease,community,child,doc_inf_003,"Blood in stool, persistent vomiting, or severe dehydration signs.",39
+Child stunting risk — clinic prevention?,nutrition,primary_care,child,doc_nut_003,"Growth monitoring, varied diet, and programme micronutrient support.",40
+Six-week-old warm to touch — wait or go in?,emergency_triage,hospital,infant,doc_emg_001,Any fever under three months needs urgent paediatric assessment.,41
+First pregnancy — how often clinic visits?,maternal_health,primary_care,pregnant,doc_mat_001,At least eight antenatal contacts with routine screening.,42
+Lifestyle steps for high blood pressure?,chronic_disease,primary_care,adult,doc_chr_002,"Reduce salt, keep healthy weight, exercise moderately, and take medicines consistently.",43
+What are the primary goals of ongoing chronic disease monitoring?,chronic_disease,primary_care,general,,"Keep progress visible, prevent emergencies, and make long-term treatment safer.",44
+How often do many people need chronic disease check-ins?,chronic_disease,home,general,,Every few months or sooner if symptoms worsen.,45
+What specific complications must be reviewed for patients with diabetes?,chronic_disease,primary_care,adult,,"Kidney, eye, and foot health.",46
+What are potential symptoms of elevated blood pressure?,chronic_disease,home,adult,,"Headaches, dizziness, nosebleeds, or feeling of pressure.",47
+What are early warning signs of a worsening asthma attack?,chronic_disease,home,general,,"Coughing more, needing reliever treatment frequently, or waking at night.",48
+What general medical danger signs indicate a patient needs urgent assessment?,emergency_triage,hospital,general,,"Altered consciousness, severe breathing problems, severe bleeding, or shock.",49
+What signs indicate severe dehydration in infants and children?,emergency_triage,home,infant,,"Sunken fontanelle, poor feeding, few wet diapers, and dry lips.",50
+What immediate safety actions should be taken during a seizure?,emergency_triage,home,general,,"Move away from danger, place on side, and avoid holding down.",51
+When is breathing difficulty considered a life-threatening medical emergency?,emergency_triage,hospital,general,,"When associated with blue lips, severe distress, or fainting.",52
+Why must even a mild fever in infants under three months be assessed promptly?,emergency_triage,primary_care,infant,,They can become ill quickly and may not show clear symptoms.,53
+What are the most critical times for handwashing with soap and water?,infectious_disease,home,general,,"After toilet use, before eating, and after handling waste.",54
+What signs indicate moderate or severe dehydration from diarrhoeal illness?,infectious_disease,home,infant,,"Dizziness, confusion, sunken eyes, and cold hands and feet.",55
+What primary protective measures prevent mosquito-borne malaria transmission?,infectious_disease,home,general,,Sleeping under insecticide-treated bed nets and using mosquito repellents.,56
+Why is early testing important for HIV and sexually transmitted infections?,infectious_disease,primary_care,general,,Treatment can improve long-term health and lower transmission risk.,57
+What are the key danger signs of severe malaria requiring urgent medical care?,infectious_disease,hospital,general,,"Difficulty breathing, seizures, severe weakness, and confusion.",58
+What key danger signs during pregnancy require urgent medical attention?,maternal_health,primary_care,pregnant,,"Severe bleeding, severe headache, visual changes, or severe abdominal pain.",59
+Why is early and routine antenatal care important during pregnancy?,maternal_health,primary_care,pregnant,,"Monitor health, detect complications early, and ensure safe delivery.",60
+What symptoms during pregnancy may signal hypertensive complications like pre-eclampsia?,maternal_health,home,pregnant,,"Severe headache, visual disturbances, and swelling of the face or hands.",61
+What routine screenings are typically included in early antenatal care visits?,maternal_health,primary_care,pregnant,,"Blood tests, blood pressure checks, and infection screenings.",62
+When should a pregnant individual seek immediate emergency hospital care?,maternal_health,hospital,pregnant,,"In case of vaginal bleeding, reduced fetal movement, or sudden severe pain.",63
+What is the primary rule regarding stopping prescription antihypertensives?,medication_safety,home,general,,No—never stop antihypertensives abruptly without clinician review.,64
+What core safety guidelines apply to dosing and avoiding medication errors?,medication_safety,home,general,,"Weight-based dosing, avoid duplicate products, do not exceed label maximum.",65
+Why should patients avoid requesting antibiotics for viral respiratory infections?,medication_safety,primary_care,general,,Misuse contributes to antibiotic resistance and lacks medical benefit.,66
+What precaution should be taken when using over-the-counter medicines?,medication_safety,home,general,,"Check instructions carefully, avoid guessing doses, and consult professionals.",67
+When must prescribed emergency medication like epinephrine auto-injectors be used?,medication_safety,hospital,general,,According to the person’s emergency plan and trained instructions.,68
+What foundational self-care strategies support emotional wellbeing and mental health?,mental_health_basics,home,general,,"Consistent sleep routines, balanced nutrition, regular physical activity, and social connection.",69
+"What early signs and symptoms indicate a person may be experiencing heightened stress, anxiety, or depression?",mental_health_basics,primary_care,general,,"Persistent low mood, excessive worry, sleep disturbances, fatigue, and loss of interest in activities.",70
+When should an individual seek professional mental health support or counselling?,mental_health_basics,primary_care,general,,"When emotional distress persists, interferes with daily functioning, or becomes overwhelming.",71
+What are the critical warning signs of a mental health crisis requiring immediate emergency intervention?,mental_health_basics,hospital,general,,"Expressions of suicidal intent, self-harm thoughts, severe disorientation, or acute panic.",72
+How can community support and reducing stigma improve mental health outcomes?,mental_health_basics,community,general,,"By encouraging open dialogue, reducing social isolation, and facilitating early help-seeking.",73
+What are the core components of a balanced and nutritious diet?,nutrition,home,general,,"Whole grains, lean proteins, healthy fats, and plenty of fruits and vegetables.",74
+What is recommended for infant feeding support during early development?,nutrition,primary_care,infant,,"Exclusive breastfeeding support when appropriate, followed by safe complementary foods.",75
+Why is proper hydration and safe drinking water essential for health?,nutrition,home,general,,"It prevents dehydration, supports bodily functions, and prevents waterborne illness.",76
+How can poor nutritional status impact susceptibility to infectious and chronic illnesses?,nutrition,primary_care,general,,It weakens immune function and increases vulnerability to severe complications.,77
+What safe food handling practices reduce the risk of foodborne illness?,nutrition,home,general,,"Keeping raw and cooked foods separate, cooking thoroughly, and maintaining clean surfaces.",78
+What is the primary role of vaccination in public health and disease prevention?,vaccination,primary_care,general,,To protect individuals and communities by stimulating immunity against vaccine-preventable diseases.,79
+Why are routine childhood immunization schedules important during early development?,vaccination,primary_care,infant,,They provide timely protection against severe infections during vulnerable early life stages.,80
+What guidance applies to vaccination recommendations for pregnant individuals?,vaccination,primary_care,pregnant,,Pregnant people should follow local guidance and receive recommended vaccines such as influenza or tetanus.,81
+How does community-wide vaccination coverage contribute to herd immunity?,vaccination,primary_care,general,,It reduces overall disease transmission and protects vulnerable populations who cannot be vaccinated.,82
+When should an individual seek clinical guidance regarding vaccination safety and contraindications?,vaccination,primary_care,general,,"Prior to vaccination, especially if they have allergies, chronic health conditions, or past adverse reactions.",83

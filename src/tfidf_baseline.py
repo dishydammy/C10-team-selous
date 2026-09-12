@@ -10,11 +10,8 @@ import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
-DATA_DIR = "../data/raw"
-OUT_DIR = "../submissions"
-
-train = pd.read_csv(f"{DATA_DIR}/train_qa.csv")
-test = pd.read_csv(f"{DATA_DIR}/test_questions.csv")
+train = pd.read_csv("train_qa.csv")
+test = pd.read_csv("test_questions.csv")
 
 def build_text(df):
     return df["question"] + " " + df["topic"] + " " + df["care_setting"] + " " + df["population"]
@@ -35,5 +32,5 @@ submission = pd.DataFrame({
     "QuestionId": test["QuestionId"],
     "Answer": predictions
 })
-submission.to_csv(f"{OUT_DIR}/tfidf_baseline_submission.csv", index=False)
-print(f"Saved {OUT_DIR}/tfidf_baseline_submission.csv with", len(submission), "rows")
+submission.to_csv("submission.csv", index=False)
+print("Saved submission.csv with", len(submission), "rows")
