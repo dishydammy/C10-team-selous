@@ -1,0 +1,222 @@
+﻿Adverse drug event: Any injury resulting from medical interventions related to a drug. Includes both adverse drug reactions where no error occurred and complications resulting from medication errors.
+
+
+Adverse drug reaction: A noxious and unintended response to a drug at doses used in humans for prophylaxis, diagnosis, or therapy. Two types:
+ Type A: augmented, pharmacologically predictable, dosedependent. High morbidity, low mortality.
+ Type B: bizarre, unpredictable, doseindependent. Low morbidity, high mortality.
+
+
+Anaphylaxis: A severe, lifethreatening systemic hypersensitivity reaction, rapid in onset, with potentially lifethreatening airway, breathing, or circulatory problems, usually (not always) with skin/mucosal changes.
+
+
+Best possible medication history (BPMH): A medication history obtained by a clinician including a thorough history of all regular medication use (prescribed and nonprescribed), using multiple sources of information.
+
+
+Deprescribing: The process of tapering, stopping, discontinuing, or withdrawing drugs, with the goal of managing polypharmacy and improving outcomes.
+
+
+Essential medicines: Medicines that satisfy the priority health care needs of the population.
+
+
+Forcing function: A design aspect that prevents a user from taking an action without consciously considering relevant information — deliberately disrupts automatic task performance to force conscious attention.
+
+
+Formulary: A list of medicines, usually by generic name, with indications for use, intended to cover medically appropriate treatment for common illnesses.
+
+
+Highrisk (highalert) medications: Drugs that carry heightened risk of significant patient harm when used in error. Errors with these drugs may not be more common, but consequences are more severe.
+
+
+Medication adherence: The degree to which a patient's medication use corresponds with the prescribed regimen.
+
+
+Medication discrepancy: Any difference between the medication use history and the admission medication orders. May be intentional, undocumented intentional, or unintentional.
+ Intentional discrepancy: result of a conscious decision by patient or health professional.
+ Undocumented intentional discrepancy: a conscious decision that was not documented.
+ Unintentional discrepancy: no conscious decision led to the change. Falls into:
+ Omission (e.g., not prescribing a required medication)
+ Commission (e.g., nonadherence, wrong dose/frequency, wrong medication, failure to communicate a change)
+
+
+Medication error: Any preventable event that may cause or lead to inappropriate medication use or patient harm while the medication is under control of the health professional, patient, or consumer.
+
+
+Medication reconciliation: The formal process in which health care professionals partner with patients to ensure accurate and complete medication information transfer at interfaces of care. Three steps:
+1. Building the BPMH — interview patient/family/caregiver, verify against at least one other reliable source.
+2. Reconciling the BPMH with prescribed medication — identify and resolve discrepancies, document changes.
+3. Communicating accurate medication information — to patient, family, and receiving health care providers.
+
+
+Medicationrelated harm: Patient harm related to medication. Includes preventable adverse drug events (e.g., due to a medication error or accidental/intentional misuse) and nonpreventable adverse drug events (e.g., an adverse drug reaction).
+
+
+Medication review: A structured evaluation of a patient's medicines aimed at optimizing use and improving health outcomes — detecting drugrelated problems and recommending interventions.
+
+
+Medication safety: Freedom from accidental injury during medication use; activities to avoid, prevent, or correct adverse drug events.
+
+
+Medication use process: The multistep process of medication use — prescribing, ordering, storage, dispensing, preparation, administration, and/or monitoring.
+
+
+Medicines optimization: Ensuring the right patients get the right choice of medicine at the right time. Goals: (a) improve outcomes, (b) take medicines correctly, (c) avoid unnecessary medicines, (d) reduce wastage, (e) improve safety.
+
+
+Multimorbidity: The presence of two or more longterm health conditions — physical, mental, symptom complexes (e.g., frailty, chronic pain), sensory impairment, or substance misuse.
+
+
+Near miss: An incident that did not reach the patient.
+
+
+Patient safety: The absence of preventable harm to a patient and reduction of risk of unnecessary harm to an acceptable minimum, given current knowledge, available resources, and context of care.
+
+
+Pharmacovigilance: The science and activities relating to detection, assessment, understanding, and prevention of adverse effects or other drugrelated problems.
+
+
+Polypharmacy: Concurrent use of multiple medications — often defined as routine use of five or more medications, including overthecounter and traditional/complementary medicines.
+
+
+Potentially inappropriate medications: Medications with ineffectiveness or a high riskbenefit ratio for a particular individual or group.
+
+
+Side effect: A known effect, other than the primarily intended one, related to a medication's pharmacological properties.
+
+
+Transitions of care: The various points where a patient moves to or returns from a physical location, or makes contact with a health care professional, for the purpose of receiving health care. Includes movement between home, hospital, residential care, and different providers. Does NOT include staff shiftchange handovers.
+
+
+
+
+Nearly every patient who moves across a transition of care experiences at least one unintended medication discrepancy.
+
+
+Prevalence data (ranges reflect variation across studies/countries):
+ Hospital admission: 3.4–97% of adult patients had at least one medication discrepancy; 22–72.3% of paediatric patients. A Colombian study found 93.6% of patients had a discrepancy at admission, including omission of overthecounter medication. An Iranian study found 77.5% of patients had a discrepancy 24 hours after admission.
+ Internal hospital transfer (Canada): 62% of patients had at least one unintentional discrepancy.
+ Discharge: 25–80% of patients had at least one medication discrepancy or communication failure. An England audit found 79% of patients had a new medication started, 27% had one stopped, 23% had a dose changed — with reasons documented in roughly half of cases or fewer.
+ Community (postdischarge): 14.1–98.2% of patients had discrepancies when reconciliation was done at home, in primary care, or by phone. An Irish study found discharge discrepancies persisted for 69% of patients, with 8% developing additional errors 10–14 days postdischarge.
+ Residential aged care: 26.9–57.1% of patients had a discrepancy between hospital discharge summary and facility medication list.
+
+
+Most common discrepancy type: omission of medication. Other common types: wrong dose, drug interaction, contraindication, duplication, and failure to communicate changes.
+
+
+Harm data:
+ 11–59% of discrepancies at admission and discharge were considered to have potential for harm.
+ 6.5% of hospital admissions in a UK study were related to an adverse drug reaction (directly causing admission in 80% of those cases).
+ 8.8% of emergency admissions to an Irish hospital were related to adverse drug events; 26% in patients over 65.
+ In a Brazilian hospital, 11.3% of patients 60+ had an adverse drug event leading to admission, and 46.2% experienced one or more during hospitalization.
+ Adverse drug event prevalence in hospitals: 3.22% (England), 4.78% (Germany), 5.64% (USA) in one comparative study.
+
+
+Economic impact:
+ ~15% of total hospital activity/expenditure in OECD countries is a direct result of adverse events.
+ Global cost of medication errors estimated at US$42 billion annually.
+ Adversedrugreactionrelated admissions in an English study had a median 8day inpatient stay, 4% of hospital bed capacity, projected annual cost of £466 million to the NHS.
+ Return on investment in pharmacistled medication reconciliation: £5–£8 saved per £1 invested in one UK analysis.
+
+
+Omission postdischarge: A patient switched from warfarin to rivaroxaban in hospital had the anticoagulant mistakenly omitted when the discharge prescription was transcribed to the community system. Two months later he suffered a stroke and died.
+
+
+Discharge prescribing error: A doctor intended to prescribe lansoprazole (entered "LANZ") but the system selected olanzapine instead, at triple the normal starting dose. The patient deteriorated over 10+ days before a pharmacist caught the error during medication reconciliation.
+
+
+Nonadherence / harm due to commission: A patient's methadone dose was confirmed with a treatment centre and the patient, but he had not actually been taking his methadone (was selling it) and didn't disclose this. He developed severe opioid toxicity on receiving the confirmed dose.
+
+
+Lack of integrated physical/mental health care: A nursing home resident admitted with lithium toxicity had lithium discontinued by the physician, triggering a severe manic episode. A psychiatrist restarted lithium without knowing why it had been stopped; toxicity recurred. Took months to stabilize.
+
+
+Original scenario (Mrs Poly, 65F): Prescribed an NSAID (diclofenac) alongside aspirin and three heart medications without a gastroprotective agent. Developed a bleeding peptic ulcer. NSAID was discontinued in hospital, but the discontinuation was not communicated — the discharge pharmacy dispensed all her original medications including the NSAID. Her son, unaware of the change, encouraged her to take everything dispensed. She was readmitted a week later; the error was only caught during a second medication reconciliation.
+
+
+
+
+1. Formal structured medication reconciliation at every transition point:
+a. Build the BPMH — interview the patient and verify with at least one reliable source.
+b. Reconcile and update the medication list.
+c. Communicate changes to the patient and future care providers, with clearly agreed roles/responsibilities and appropriate tools.
+
+
+2. Partnership between patients, families, caregivers, and health professionals — agree on treatment plans, ensure patients can manage medications safely, ensure an uptodate medication list is held by the patient.
+
+
+3. Prioritize highrisk patients for reconciliation and enhanced support (e.g., pre and postdischarge contact) — older persons, those on many medications, highrisk medications, or with comorbidities such as renal impairment.
+
+
+4. Collaborative medication management between medical, nursing, and pharmacy staff; invest in workforce capacity where staffing is inadequate.
+
+
+5. Improve information quality and availability at transitions:
+ Patientheld medication records/passports (paper or electronic)
+ IT systems to support reconciliation
+ Electronic health records (EHRs) for smoother transitions Evidence: electronictoolsupported reconciliation reduced unintentional medication discrepancies by 45% in one metaanalysis (largely via reduced omissions).
+
+
+Admission reconciliation steps:
+ Interview patient/family/caregiver in a structured format to capture all medications.
+ Verify against at least one other reliable source.
+ Reconcile BPMH with the current admission prescription; resolve discrepancies.
+ Share the final medication list with the patient and other health professionals.
+
+
+Discharge reconciliation steps:
+ Retrieve the BPMH from admission (or build it if not yet done).
+ Define the final medication list at discharge/transfer.
+ Decide which medications are required after discharge and prescribe/list them.
+ Document reasons for any changes or discontinuations; update records with the discharge list.
+
+
+Effective interventions identified in systematic reviews:
+ Pharmacist/pharmacy involvement in reconciliation (found particularly effective and costeffective).
+ Patientheld medication lists or passports.
+ Complex discharge and postdischarge support programmes, especially for highrisk patients.
+ Providertoprovider communication, including interoperable IT systems.
+
+
+Patient/family engagement strategies:
+ Keep a complete, uptodate medication list (including OTC and traditional/complementary medicines).
+ Understand benefits and risks of each medication; agree on treatment with providers.
+ Understand how to use each medication (dispensing labels, patient information materials).
+ Participate in the design/monitoring of improvement programmes.
+ Identify and report medication errors and adverse drug events.
+
+
+
+
+Suggested process/outcome measures:
+
+
+1. Percentage of patients with at least one outstanding unintentional discrepancy = (Number of patients with ≥1 outstanding unintentional discrepancy / Number of eligible patients) × 100
+
+
+2. Mean number of outstanding unintentional medication discrepancies per patient = Number of outstanding unintentional discrepancies / Number of eligible patients
+
+
+3. Percentage of patients receiving medication reconciliation = (Number of eligible patients receiving medication reconciliation / Number of eligible patients admitted) × 100
+
+
+4. Patientcentred measure (example survey question):
+"Did a member of staff explain the purpose of the medicines you were to take at home in a way you could understand?" Response options: Yes, completely / Yes, to some extent / No / I did not need an explanation / I had no medicines
+
+
+5. Medicationrelated harm at transitions — tracked via patient safety incident/nearmiss reports, complaints, pharmacovigilance reports, and morbidity/mortality reviews (qualitative, complements the quantitative measures above; not to be used alone to estimate prevalence/incidence).
+
+
+Note on evidence base: Most quantitative studies on this topic come from highincome countries, concentrated at hospital admission/discharge. Less evidence exists for low and middleincome countries (LMICs) and for other transition points, though available evidence suggests discrepancies occur at least as frequently in LMICs.
+
+
+
+
+
+
+ NSAID use without gastroprotection in patients with cardiovascular history or bleeding risk.
+ Concurrent use of aspirin + NSAID (increased GI bleeding risk).
+ ACE inhibitors during episodes of blood loss/haemodynamic instability (may need temporary suspension).
+ Anticoagulant switches (e.g., warfarin to a DOAC) at discharge — high risk of omission during transcription.
+ Lookalike/soundalike drug names at prescribing (e.g., lansoprazole vs. olanzapine).
+ Undisclosed nonadherence prior to admission (e.g., methadone, other controlled substances) creating risk when "usual dose" is resumed.
+ Psychiatric/physical comorbidity medication conflicts (e.g., lithium dose changes) not communicated across specialty teams.
+ Multimorbidity + polypharmacy (5+ medications) — independently increases risk of medicationrelated harm.

@@ -1,0 +1,62 @@
+﻿Unintended, harmful reactions to medicines (known as adverse drug reactions) are among the leading causes of death in many countries.
+ The majority of adverse drug reactions (ADR) are preventable.
+ People in every country are affected by ADRs.
+ In some countries, ADRrelated costs such as hospitalization, surgery and lost productivity exceed the cost of medications.
+ No medicine is riskfree. Vigilant assessment of the risks and benefits of medicines promotes patient safety.
+
+
+Safety of medicines is an essential part of patient safety. Global drug safety depends on strong national systems that:
+ monitor the development and quality of medicines
+ report their harmful effects
+ provide accurate information for their safe use
+
+
+Harmful, unintended reactions to medicines that occur at doses normally used for treatment are called adverse drug reactions (ADRs). ADRs are among the leading causes of death in many countries.
+
+
+Preventing and detecting adverse effects from medicines is termed pharmacovigilance. Vigilant assessment of the risks and benefits of medicines applies throughout the life cycle of a medicine, from the preapproval stage to use by patients.
+
+
+Global informationsharing on adverse effects strengthens drug safety in countries, and can translate into timely policy decisions that safeguard patient safety when problems arise.
+
+
+No drug is without risk and all medicines have sideeffects, some of which can be fatal. People in every country of the world are affected by ADRs. In some countries, ADRrelated costs, such as hospitalization, surgery and lost productivity, exceed the cost of the medications.
+
+
+Many ADRs (in some instances as many as 60%) are preventable, and may be due to a variety of reasons such as:
+ incorrect diagnosis of the patient's medical condition
+ prescription of the inappropriate drug or incorrect dosage of the appropriate drug
+ an undetected medical, genetic or allergic condition that may cause a patient reaction
+ selfmedication with prescription medicines
+ not following the instructions for taking the medication
+ interactions with other drugs (including traditional medicines) and certain foods
+ use of substandard medication with composition and ingredients which do not meet scientific requirements, causing them to be ineffective and often hazardous
+ use of counterfeit medicines with no active ingredients or inappropriate ingredients, which can be dangerous or fatal
+
+
+Even when the above situations are avoided, all medicines have sideeffects and some can be detrimental. The effects of any treatment with a medicine cannot be predicted with absolute certainty. All medicines have both benefits and the potential for harm. The risk of harm can be minimized by ensuring the quality of prescription medications, and that they are medically appropriate, effective and safe for patient use.
+
+
+Safety measures:
+
+
+Pharmaceutical companies, or drug manufacturers, are required by law in all countries to test their drugs on healthy and patient volunteers before making them widely available. These clinical trials show how well a drug works for a defined disease and what potential harm it can cause. However, they provide little to no information for larger, untested populations with different characteristics from the trial group, such as age, gender, state of health and ethnic background.
+
+
+For many medicines, and particularly complex products, safety monitoring does not stop at the manufacturing stage. Medicine safety must be followed by careful patient monitoring and further scientific data collection. This aspect of drug monitoring is termed postmarketing surveillance. The effectiveness of national postmarketing surveillance is directly dependent upon the active participation of healthcare professionals.
+
+
+Healthcare professionals (physicians, pharmacists, nurses, dentists, etc.) are in the best position to report suspected ADRs as part of their daily patient care, and should report ADRs even if they are doubtful about the precise relationship between the given medicine and the reaction.
+
+
+
+
+
+
+WHO promotes global drug safety through its Programme for International Drug Monitoring (PIDM), which began in the 1960s. Through the cooperative effort, Member States and WHO work together to identify possible relationships between the use of a drug and adverse effects. Countries that are members in the WHO PIDM are supported by WHO to have national systems in place to report ADRs to the database managed by the WHO collaborating centre, the Uppsala Monitoring Centre. When signals of drug safety problems emerge, WHO shares the results with all Member States.
+ facilitates regular information exchanges among Member States on the safety and effectiveness of medicines
+ informs promptly national health authorities about new information on serious adverse effects of pharmaceutical products
+ provides guidelines to help countries set up national pharmacovigilance centres
+ trains healthcare professionals on safety monitoring for new and complex medicines
+ assists countries as they work to strengthen drug regulation and pharmacovigilance systems
+ promotes best pharmacovigilance practices

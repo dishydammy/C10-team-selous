@@ -1,0 +1,36 @@
+﻿Acuity-based triage is the action of sorting and prioritizing patients based on the estimation of the urgency for intervention. This approach is used as the basis for identification of those patients who require immediate medical intervention and those who can safely wait. Acuity- based triage is the standard method of sorting patients in medical settings and can be performed at any point of access to the health care system, including in both pre-hospital ambulance services, busy outpatient clinics and hospitals.
+
+
+The Interagency Integrated Triage Tool (IITT) is a triage tool developed in collaboration between WHO, the International Committee of the Red Cross (ICRC) and Médecins Sans Frontiéres (MSF) to provide an integrated set of protocols for routine triage of adults and children and for mass casualty conditions. The IITT is intended to be used for facility-based triage within emergency units and incorporates and updates previous WHO guidance for sorting patients by acuity (e.g. Emergency Triage and Treatment). The tool is designed around a three-colour system: red (high acuity; need to be seen immediately), yellow (moderate acuity;
+need to be seen soon), and green (low acuity; can wait).
+
+
+Very fast or very slow breathing Very fast breathing
+Inability to talk or walk unaided Inability to talk, eat or breastfeed Confused, sleepy or agitated Nasal flaring, grunting
+
+
+Use of clinical signs alone may not identify all those who need time-dependent intervention.
+Patients with high risk ingestion or exposure should initially be up-triaged to Red for early clinical assessment.
+
+
+A patient presenting with a limb that is Pulseless OR Painful and one of the following: pale, weak, numb, or with massive swelling after trauma.
+
+
+World Health Organization, Médecins sans Frontiére (MSF) and the International Committee of the Red Cross (ICRC). Some rights reserved. This work is available undbr the Creative Commons Attribution-NonCommercial-ShareAlike
+
+
+A mass casualty incident (MCI) is an event that generates more patients, often with higher acuity, than a health facility can manage using its usual resources and procedures. Mass Casualty - Interagency Integrated Triage Tool (MC - IITT) guides patient prioritization in facilities during MCI conditions.
+
+
+When detailed assessment is delayed, repeat triage with Mass Casualty - IITT.
+Conduct further triage as needed based on patient = assessment or clinical concern.
+
+
+This guidance note accompanies the WHO Academy Mass Casualty Management course and provides further detail on the Mass Casualty  Interagency Integrated Triage Tool. For more information on emergency unit triage used in routine conditions, please refer to the Interagency Integrated Triage Tool.
+A mass casualty incident (MCI) is an event that generates more patients, often with higher acuity, than a health facility can manage using its usual resources and procedures. This disrupts day-to-day procedures and requires additional resources. An MCI demands exceptional emergency arrangements and additional assistance.
+
+
+During MCls, emergency units (EUs) may become overwhelmed by a sudden surge in patients or suffer direct disruption from the event itself, limiting their ability to deliver care. When EUs are overwhelmed, both direct mortality from the acute event and preventable mortality from everyday conditions can increase dramatically. The objective is to ensure the greatest good for those who can benefit the most from medical and surgical interventions. Clinical service delivery during an MCI is particularly affected by factors including high patient volumes, increased security risks, inadequate resource availability, interruptions in routine clinical processes, disrupted communication and leadership and unfamiliarity with providing care during times of surge.
+
+
+Mass casualty planning is essential to prepare for these anticipated challenges and allow effective mass casualty management (MCM). An MCM plan should be developed for the local facility including the EU and plans should be developed in collaboration with other clinical areas. Activation exercises should take place routinely. The plan should be designed with a smooth transition from routine practice in mind. This enables staff to continue working with familiar clinical processes, enhancing efficacy and reducing the risk of errors. For example, routine application of validated, acuity-base triage during everyday operations will create a strong foundation for triage during an MCI. The greater the departure from routine processes, the harder it will be for staff to switch from one process to the other.

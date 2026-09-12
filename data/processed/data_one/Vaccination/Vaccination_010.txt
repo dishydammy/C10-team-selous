@@ -1,0 +1,532 @@
+﻿This report provides updated information concerning the potential adverse events associated with vaccination for hepatitis B, poliomyelitis, measles, mumps, diphtheria, tetanus, and pertussis. This information incorporates findings from a series of recent literature reviews, conducted by an expert committee at the Institute of Medicine (IOM), of all evidence regarding the possible adverse consequences of vaccines administered to children. This report contains modifications to the previously published recommendations of the Advisory Committee on Immunization Practices (ACIP) and is based on an ACIP review of the IOM findings and new research on vaccine safety. In addition, this report incorporates information contained in the "Recommendations of the Advisory Committee on Immunization Practices: Use of Vaccines and Immune Globulins in Persons with Altered Immunocompetence" (MMWR 1993;42 {No. RR-4}) and the "General Recommendations on Immunization: Recommendations of the Advisory Committee on Immunization Practices (ACIP)" (MMWR 1994;43 {No.
+RR-1}). Major changes to the previous recommendations are highlighted within the text, and specific information concerning the following vaccines and the possible adverse events associated with their administration are included: hepatitis B vaccine and anaphylaxis; measles vaccine and a) thrombocytopenia and b) possible risk for death resulting from anaphylaxis or disseminated disease in immunocompromised persons; diphtheria and tetanus toxoids and pertussis vaccine (DTP) and chronic encephalopathy; and tetanus-toxoid-containing vaccines and a) Guillain-Barre syndrome, b) brachial neuritis, and c) possible risk for death resulting from anaphylaxis. These modifications will be incorporated into more comprehensive ACIP recommendations for each vaccine when such statements are revised. Also included in this report are interim recommendations concerning the use of measles and mumps vaccines in a. persons who are infected with human immunodeficiency virus and b. persons who are allergic to eggs; ACIP is still evaluating these recommendations.
+
+
+Immunization has enabled the global eradication of smallpox ( the elimination of poliomyelitis from the Western hemisphere  and major reductions in the incidence of other vaccine-preventable diseases in the United States 
+However, although immunization has successfully reduced the incidence of vaccine-preventable diseases, vaccination can cause both minor and, rarely, serious side effects. Public awareness of and controversy about vaccine safety has increased, primarily because increases in vaccine coverage resulted in an increased number of adverse events that occurred after vaccination. Such adverse events include both true reactions to vaccine and events coincidental to, but not caused by, vaccination. Despite concerns about vaccine safety, vaccination is safer than accepting the risks for the diseases these vaccines prevent. Unless a disease has been eradicated (e.g., smallpox), failure to vaccinate increases the risks to both the individual and socicty.
+
+
+In response to concerns about vaccine safety, the National Childhood Vaccine Injury Act of 1986 established a no-fault compensation process for persons possibly injured by selected vaccines (3). The Act also mandated that the Institute of
+
+
+Medicine * (IOM) review scientific and other evidence regarding the possible adverse consequences of vaccines administered to children.
+
+
+IOM constituted an expert committee to review all available information on these vaccine adverse events; such information included epidemiologic studies, case series, individual case reports, and testimonials. To derive their conclusions, the IOM committee members created five categories of causality to describe the relationships between the vaccines and specific adverse events. The first IOM review examined certain events occurring after administration of pertussis and rubella vaccines (Table_2) (4). The second IOM review examined events occurring after administration of all other vaccines usually administered during childhood (i.e., diphtheria and tetanus toxoids and measles, mumps, hepatitis B, Haemophilus influenzae type b {Hib}, and poliovirus vaccines) (Table_3) (5). Two other IOM committees have met since the findings of the second review were published. These two committees have published their findings concerning both the diphtheria and tetanus toxoids and pertussis vaccine (DTP) and chronic nervous system dysfunction (Figure_1) (6) and research strategies for vaccine-associated adverse events (7).
+
+
+The Advisory Committee on Immunization Practices (ACIP) recently reviewed the findings of the IOM committees and modified the previously published ACIP recommendations to ensure consistency with IOM conclusions. These recommendations, which are included in this report, update all previously published ACIP recommendations pertaining to the precautions, contraindications, side effects, and adverse reactions ** associated with specific vaccines. ACIP accepted the IOM conclusions for almost all vaccine adverse events; the few exceptions generally occurred because new information that was available to ACIP had not been available when the IOM committees published their recommendations. These exceptions included a) oral poliovirus vaccine (OPV) and Guillain-Barre syndrome (GBS), b) tetanus-toxoid- containing vaccines and GBS, and c) DTP and chronic nervous system dysfunction.
+
+
+In addition, this report incorporates information contained in the "Recommendations of the Advisory Committee on Immunization Practices: Use of Vaccines and Immune Globulins in Persons with Altered Imnmunocompetence" (MMWR 1993; 42 {No. RR-4}) and the "General Recommendations on Immunization: Recommendations of the Advisory Committee on Immunization Practices (ACIP)" (MMWR 1994;43 {No. RR-1}). To facilitate recognition of the new recommendations in this report, all major changes that are being made to the previously published ACIP statements are highlighted within the text.
+These changes include information on the following vaccines and the possible adverse events associated with their administration:
+
+
+- Hepatitis B vaccine and anaphylaxis;
+
+
+- Measles vaccine and a) thrombocytopenia and b) possible risk for death resulting from anaphylaxis or disseminated disease in immunocompromised persons;
+
+
+- DTP and chronic encephalopathy; and
+
+
+- Tetanus-toxoid-containing vaccines and a) GBS, b) brachial neuritis, and c) possible risk for death resulting from anaphylaxis.
+
+
+The modifications contained in this report, and possibly other changes as new information becomes available, will be incorporated into more comprehensive ACIP recommendations for each vaccine when such statements are revised.
+
+
+HEPATITIS B VACCINE
+
+
+The following recommendations concerning adverse events associated with hepatitis B vaccination update those applicable sections in "Hepatitis B Virus: A Comprehensive Strategy for Eliminating Transmission in the United States Through Universal Childhood Vaccination -- Recommendations of the Immunization Practices Advisory Committee (ACIP)" (MMWR
+
+
+Vaccine Side Effects and Adverse Reactions
+
+
+Hepatitis B vaccines are safe to administer to adults and children. More than an estimated 10 million adults and million infants and children have been vaccinated in the United States, and at least 12 million children have been vaccinated worldwide.
+
+
+Vaccine-Associated Side Effects
+
+
+Pain at the injection site (3%-29%) and a temperature greater than 37.7 C (1%-6%) have been among the most frequently reported side effects among adults and children receiving vaccine (8-12). In placebo-controlled studies, these side effects were reported no more frequently among vaccinees than among persons receiving a placebo (11,12). Among children
+
+
+receiving both hepatitis B vaccine and DTP, these mild side effects have been observed no more frequently than among children receiving only DTP.
+
+
+The recommendation to begin hepatitis B vaccination soon after birth has raised the concern that a substantial number of infants will require an extensive medical evaluation for elevated temperatures secondary to hepatitis B vaccination. Several population-based studies to evaluate this possibility are in progress.
+
+
+Adverse Events
+
+
+In the United States, surveillance of adverse reactions indicated a possible association between GBS and receipt of the first dose of plasma-derived hepatitis B vaccine (CDC, unpublished data; 13). However, an estimated 2.5 million adults received one or more doses of recombinant hepatitis B vaccine during 1986-1990, and available data concerning these vaccinees do not indicate an association between receipt of recombinant vaccine and GBS (CDC, unpublished data).
+
+
+Based on reports to the Vaccine Adverse Events Reporting System (VAERS), the estimated incidence rate of anaphylaxis among vaccine recipients is low (i.e., approximately one event per 600,000 vaccine doses distributed). Two of these adverse events occurred in children (CDC, unpublished data). In addition, only one case of anaphylaxis occurred among 100,763 children ages 10-11 years who had been vaccinated with recombinant vaccine in British Columbia (D. Scheifele, unpublished data), and no adverse events were reported among 166,757 children who had been vaccinated with plasma-derived vaccine in New Zealand (5). Although none of the persons who developed anaphylaxis died, this adverse event can be fatal; in addition, hepatitis B vaccine can -- in rare instances -- cause a life-threatening hypersensitivity reaction in some persons (5). Therefore, subsequent vaccination with hepatitis B vaccine is contraindicated for persons who have previously had an anaphylactic response to a dose of this vaccine.
+
+
+Large-scale hepatitis B immunization programs for infants in Alaska, New Zealand, and Taiwan have not established an association between vaccination and the occurrence of other severe adverse events, including seizures and GBS (B.
+McMahon and A. Milne, unpublished data; 14). However, systematic surveillance for adverse reactions in these populations has been limited, and only a minimal number of children have received recombinant vaccine. Any presumed risk for adverse events that might be causally associated with hepatitis B vaccination must be balanced with the expected risk for hepatitis B virus (HBV)-related liver disease. Currently, an estimated 2,000-5,000 persons in each U.S. birth cohort will die as a result of HBV-related liver disease because of the 5% lifetime risk for HBV infection.
+
+
+As hepatitis B vaccine is introduced for routine vaccination of infants, surveillance for vaccine-associated adverse events will continue to be an important part of the program despite the current record of safety. Any adverse event suspected to be associated with hepatitis B vaccination should be reported to VAERS. VAERS forms can be obtained by calling (800) 822- 7967.
+
+
+POLIOMYELITIS PREVENTION
+
+
+The following recommendations concerning adverse events associated with poliomyelitis vaccination update those applicable sections in "Poliomyelitis Prevention: Recommendation of the Immunization Practices Advisory Committee (ACIP)"
+
+
+Precautions and Contraindications Pregnancy
+
+
+Although no conclusive evidence documents the adverse effects of OPV or inactivated poliovirus vaccine (IPV) in pregnant women and their developing fetuses, vaccination of pregnant women should be avoided. However, if immediate protection against poliomyelitis is necessary, OPV or IPV can be given.
+
+
+Immunodeficiency
+
+
+Persons who have congenitally acquired immune-deficiency diseases (e.g., combined immunodeficiency, hypogammaglobulinemia, and agammaglobulinemia) should not be given OPV because of their substantially increased risk for vaccine-associated disease. Furthermore, persons who have altered immune status resulting from acquired conditions (e.g., human immunodeficiency virus {HIV} infection, leukemia, lymphoma, or generalized malignancy) or who have immune systems compromised by therapy (c.g., treatment with corticosteroids, alkylating drugs, antimetabolites, or radiation) should not receive OPV because of the theoretical risk for paralytic disease.
+
+
+IPV -- and not OPV -- should be used to vaccinate immunodeficient persons and their household contacts. Many immunosuppressed persons are already immune to polioviruses because of previous vaccination or exposure to wild-type virus when they were immunocompetent. Although such persons should not receive OPV, their risk for paralytic disease may
+
+
+be less than that of persons who have congenitally acquired immunodeficiency. Although a protective immune response to IPV in the immunodeficient patient cannot be ensured, the vaccine is safe and some protection may result from its administration. If a household contact of an immunodeficient person is vaccinated inadvertently with OPV, the OPV recipient should avoid close physical contact with the immunodeficient person for approximately 4-6 weeks after vaccination (i.e., during the period of maximum excretion of vaccine virus). If such contact cannot be avoided, rigorous hygiene and hand washing after contact with feces (c.g., after diaper changing) and avoidance of contact with saliva (e.g., by not sharing cating utensils or food) should be practiced. These practices are an acceptable, but probably less effective, alternative than refraining from contact. Because immunodeficiency is possible in other children born to a family in which one child is immunodeficient, OPV should not be administered to a member of such a house-hold until the immune status of the recipient and other children in the family is documented.
+
+
+Adverse Reactions OPV
+
+
+In rare instances, administration of OPV has been associated with paralytic poliomyelitis in healthy recipients and their contacts. Very rarely, OPV has caused fatal paralytic poliomyelitis in immunocompromised persons (5). Other than efforts for identifying persons with immune-deficiency conditions, no procedures are currently available to identify persons likely to experience such adverse reactions. Although the risk of vaccine-associated paralysis is extremely small for vaccinees and their susceptible, close, personal contacts, they should be informed of this risk.
+
+
+Available data do not indicate a measurable increased risk for GBS after receipt of OPV. Initial reports (at the time of IOM review) of two studies conducted in Finland suggested that OPV might cause GBS. These studies identified an apparent increased incidence of GBS that was temporally associated with mass OPV vaccination of children and adults who had previously received IPV (15,16). Since the IOM review, a reanalysis of the data derived from the studies conducted in Finland and an analysis of an observational study conducted in the United States have not demonstrated a causal relationship between OPV and GBS in infants (17).
+
+
+Because OPV contains trace amounts of streptomycin, bacitracin, and neomycin, its use is contraindicated in persons who have previously had an anaphylactic reaction to OPV or to these antibiotics.
+
+
+No serious side effects of currently available IPV have been documented. Since IPV contains trace amounts of streptomycin and neomycin, there is a possibility of hypersensitivity reactions in individuals sensitive to these antibiotics.
+
+
+
+
+The following recommendations concerning adverse events associated with measles vaccination update those applicable sections in "Measles Prevention: Recommendations of the Immunization Practices Advisory Committee" (MMWR 1989;
+ and they apply regardless of whether the vaccine is administered as a single antigen or as a component of measles-rubella (MR) or measles-mumps-rubella (MMR) vaccine. Information concerning adverse events associated with the mumps component of MMR vaccine is reviewed later in this document (see Mumps Prevention), and information concerning the rubella component is located in the previously published ACIP statement for rubella (18).
+
+
+Side Effects and Adverse Reactions
+
+
+More than 240 million doses of measles vaccine were distributed in the United States from 1963 through 1993. The vaccine has an excellent record of safety. From 5% to 15% of vaccinees may develop a temperature of greater than or equal to 103 F ( greater than or equal to 39.4 C) beginning 5-12 days after vaccination and usually lasting several days (19). Most persons with fever are otherwise asymptomatic. Transient rashes have been reported for approximately 5% of vaccinees. Central nervous system (CNS) conditions, including encephalitis and encephalopathy, have been reported with a frequency of less than one per million doses administered. The incidence of encephalitis or encephalopathy after measles vaccination of healthy children is lower than the observed incidence of encephalitis of unknown etiology. This finding suggests that the reported severe neurologic disorders temporally associated with measles vaccination were not caused by the vaccine. These adverse events should be anticipated only in susceptible vaccinees and do not appear to be age-related. After revaccination, most reactions should be expected to occur only among the small proportion of persons who failed to respond to the first dose. Personal and Family History of Convulsions
+
+
+As with the administration of any agent that can produce fever, some children may have a febrile seizure. Although children with a personal or family history of seizures are at increased risk for developing idiopathic epilepsy, febrile seizures following vaccinations do not in themselves increase the probability of subsequent epilepsy or other neurologic disorders.
+Most convulsions following measles vaccination are simple febrile seizures, and they affect children without known risk
+
+
+An increased risk of these convulsions may occur among children with a prior history of convulsions or those with a history of convulsions in first-degree family members (i.e., siblings or parents) (20). Although the precise risk cannot be determined, it appears to be low.
+
+
+In developing vaccination recommendations for these children, ACIP considered a number of factors, including risks from measles disease, the large proportion (5%-7%) of children with a personal or family history of convulsions, and the fact that convulsions following measles vaccine are uncommon. Studies conducted to date have not established an association between MMR vaccination and the development of a residual seizure disorder (5). ACIP concluded that the benefits of vaccinating these children greatly outweigh the risks. They should be vaccinated just as children without such histories.
+
+
+Because the period for developing vaccine-induced fever occurs approximately 5-12 days after vaccination, prevention of febrile seizures is difficult. Prophylaxis with antipyretics has been suggested as one alternative, but these agents may not be effective if given after the onset of fever. To be effective, such agents would have to be initiated before the expected onset of fever and continued for 5-7 days. However, parents should be alert to the occurrence of fever after vaccination and should treat their children appropriately.
+
+
+Children who are being treated with anticonvulsants should continue to take them after measles vaccination. Because protective levels of most currently available anticonvulsant drugs (e.g., phenobarbital) are not achieved for some time after therapy is initiated, prophylactic use of these drugs does not seem feasible.
+
+
+The parents of children who have either a personal or family history of seizures should be advised of the small increased risk of seizures following measles vaccination. In particular, they should be told in advance what to do in the unlikely event that a seizure occurs. The permanent medical record should document that the small risk of postimmunization seizures and the benefits of vaccination have been discussed.
+
+
+Subacute Sclerosing Panencephalitis (SSPE)
+
+
+Measles vaccine significantly reduces the likelihood of developing SSPE, as evidenced by the near elimination of SSPE cases after widespread measles vaccination began. SSPE has been reported rarely in children who do not have a history of natural measles infection but who have received measles vaccine. The available evidence suggests that at least some of these children may have had an unidentified measles infection before vaccination and that the SSPE probably resulted from the natural measles infection. The administration of live measles vaccine does not increase the risk for SSPE, regardless of whether the vaccinee has had measles infection or has previously received live measles vaccine (5,21).
+
+
+Thrombocytopenia
+
+
+Surveillance of adverse reactions in the United States and other countries indicates that MMR vaccine can, in rare circumstances, cause clinically apparent thrombocytopenia within the 2 months after vaccination. In prospective studies, the reported incidence of clinically apparent thrombocytopenia after MMR vaccination ranged from one case per 30,000 vaccinated children in Finland (22) and Great Britain (23) to one case per 40,000 in Sweden, with a temporal clustering of cases occurring 2-3 weeks after vaccination (24). With passive surveillance, the reported incidence was approximately one case per 100,000 vaccine doses distributed in Canada and France (25), and approximately one case per | million doses distributed in the United States (26). The clinical course of these cases was usually transient and benign, although hemorrhage occurred rarely (26). Furthermore, the risk for thrombocytopenia during rubella or measles infection is much greater than the risk after vaccination. Of 30,000 school-children in one Pennsylvania county who had been infected with rubella during the 1963-64 measles epidemic, 10 children developed thrombocytopenic purpura (incidence: one case per 3,000 children) (27). Based on case reports, the risk for thrombocytopenia may be higher for persons who previously have had idiopathic thrombocytopenic purpura, particularly for those who had thrombocytopenic purpura after an earlier dose of MMR vaccine (5,28,29).
+
+
+Revaccination Risks
+
+
+There is no evidence of an increased risk for adverse reactions after administration of live measles vaccine to persons who are already immune to measles as a result of either previous vaccination or natural disease.
+
+
+Precautions and Contraindications Pregnancy Live measles vaccine, when given as a component of MR or MMR, should not be given to women known to be pregnant or who are considering becoming pregnant within the next 3 months. Women who are given monovalent measles vaccine should
+
+
+not become pregnant for at least 30 days after vaccination. This precaution is based on the theoretical risk of fetal infection, although no evidence substantiates this theoretical risk. Considering the importance of protecting adolescents and young
+
+
+adults against measles, asking women if they are pregnant, excluding those who are, and explaining the theoretical risks to the others before vaccination are sufficient precautions.
+
+
+Febrile Illness
+
+
+The decision to administer or delay vaccination because of a current or recent febrile illness depends largely on the cause of the illness and the severity of symptoms. Minor illnesses, such as a mild upper-respiratory infection with or without low- grade fever, are not contraindications for vaccination. For persons whose compliance with medical care cannot be assured, every opportunity should be taken to provide appropriate vaccinations.
+
+
+Children with moderate or severe febrile illnesses can be vaccinated as soon as they have recovered from the acute phase of the illness. This wait avoids superimposing adverse effects of vaccination on the underlying illness or mistakenly attributing a manifestation of the underlying illness to the vaccine. Performing routine physical examinations or measuring temperatures are not prerequisites for vaccinating infants and children who appear to be in good health. Asking the parent or guardian if the child is ill, postponing vaccination for children with moderate or severe febrile illnesses, and vaccinating those without contraindications are appropriate procedures in childhood immunization programs.
+
+
+Allergic Reactions
+
+
+Hypersensitivity reactions rarely occur after the administration of MMR or any of its component vaccines. Most of these reactions are minor and consist of a wheal and flare or urticaria at the injection site. Immediate, anaphylactic reactions to MMR or its component vaccines are extremely rare. Although greater than 70 million doses of MMR vaccine have been distributed in the United States since VAERS was implemented in 1990, only 33 cases of anaphylactic reactions that occurred after MMR vaccination have been reported. Furthermore, only 11 of these cases a) occurred immediately after vaccination and b) occurred in persons who had symptoms consistent with anaphylaxis (CDC, unpublished data).
+
+
+In the past, persons who had a history of anaphylactic reactions (i.e., hives, swelling of the mouth or throat, difficulty breathing, hypotension, and shock) following egg ingestion were considered to be at increased risk for serious reactions after receipt of measles-containing vaccines, which are produced in chick embryo fibroblasts. Protocols requiring caution were developed for skin testing and vaccinating persons who had had anaphylactic reactions after egg ingestion (30-34). However, the predictive value of such skin testing and the need for special protocols when vaccinating egg-allergic persons with measles-containing vaccines is uncertain. The results of recent studies suggest that anaphylactic reactions to measles- containing vaccines are not associated with hypersensitivity to egg antigens but with some other component of the vaccines.
+The risk for serious allergic reaction to these vaccines in egg-allergic patients is extremely low, and skin testing is not necessarily predictive of vaccine hypersensitivity (35-37). Therefore, ACIP is re-evaluating whether skin testing and the use of special protocols are routinely necessary when administering MMR or other measles-containing vaccines to persons who have a history of anaphylactic-like reactions after egg ingestion.
+
+
+MMR and its component vaccines contain hydrolyzed gelatin as a stabilizer. The literature contains a single case report of a person with an anaphylactic sensitivity to gelatin who had an anaphylactic reaction after receipt of the MMR vaccine licensed in the United States (38). Similar cases have occurred in Japan (39). Therefore, ACIP is currently considering recommendations for vaccination of persons who have had an anaphylactic reaction to gelatin or gelatin-containing products.
+In the meantime, such persons should be vaccinated with MMR and its component vaccines with extreme caution.
+
+
+MMR vaccine and its component vaccines contain trace amounts of neomycin. Although the amount present is less than that usually used for a skin test to determine hypersensitivity, persons who have experienced anaphylactic reactions to neomycin should not be given these vaccines. Most often, neomycin allergy is manifested by contact dermatitis rather than anaphylaxis.
+Ahistory of contact dermatitis to neomycin is not a contraindication to receiving measles vaccine. Live measles virus vaccine does not contain penicillin.
+
+
+Thrombocytopenia
+
+
+Children who have a history of thrombocytopenic purpura or thrombocytopenia may be at increased risk for developing clinically significant thrombocytopenia after MMR vaccination. The decision to vaccinate should depend on the benefits of immunity to measles, mumps, and rubella and the risks for recurrence or exacerbation of thrombocytopenia after vaccination or during natural infections with measles or rubella. The benefits of immunization are usually greater than the potential risks, and administration of MMR vaccine is justified -- particularly with regard to the even greater risk for thrombocytopenia after measles or rubella disease. However, avoiding a subsequent dose might be prudent if the previous episode of thrombocytopenia occurred in close temporal proximity to (i.e., within 6 weeks after) the previous vaccination. Serologic evidence of measles immunity in such persons may be sought in lieu of MMR vaccination.
+
+
+Recent Administration of Immune Globulins
+
+
+Previous recommendations, based on data from persons who received low doses of immune globulin preparations, stated that MMR and its individual component vaccines could be administered as early as 6 weeks to 3 months after administration of immune globulins (40,41). However, recent evidence suggests that high doses of immune globulins can inhibit the immune response to measles vaccine for more than 3 months (42,43). Administration of immune globulins also can inhibit the response to rubella vaccine (42). The effect of immune globulin preparations on the response to mumps vaccine is unknown, but commercial immune globulin preparations contain antibodies to these viruses.
+
+
+Blood (e.g., whole blood, packed red blood cells, and plasma) and other antibody-containing blood products (e.g., immune globulin; specific immune globulins; and immune globulin, intravenous {IGIV}) can diminish the immune response to MMR or its individual component vaccines. Therefore, after an immune globulin preparation is received, these vaccines should not be administered before the recommended interval (Table_4) and (Table_5). However, the postpartum vaccination of rubella- susceptible women with the rubella or MMR vaccine should not be delayed because anti-Rho(D) IG (human) or any other blood product was received during the last trimester of pregnancy or at delivery. These women should be vaccinated immediately after delivery and, if possible, tested at least 3 months later to ensure immunity to rubella and, if necessary, to measles.
+
+
+If administration of an immune globulin preparation becomes necessary because of imminent exposure to disease, MMR or its component vaccines can be administered simultaneously with the immune globulin preparation, although vaccine-induced immunity might be compromised. The vaccine should be administered at a site remote from that chosen for the immune globulin inoculation. Unless serologic testing indicates that specific antibodies have been produced, vaccination should be repeated after the recommended interval (Table_4) and (Iable_5).
+
+
+If administration of an immune globulin preparation becomes necessary after MMR or its individual component vaccines have been administered, interference can occur. Usually, vaccine virus replication and stimulation of immunity will occur 1-2 weeks after vaccination. Thus, if the interval between administration of any of these vaccines and subsequent administration of an immune globulin preparation is less than 14 days, vaccination should be repeated after the recommended interval (Table_4) and (Table_5), unless serologic testing indicates that antibodies were produced.
+
+
+Altered Immunocompetence
+
+
+Non-HIV-Infected Persons. Replication of vaccine viruses can be enhanced in persons with immune-deficiency diseases and in persons with immunosuppression, as occurs with leukemia, lymphoma, generalized malignancy, or therapy with alkylating agents, antimetabolites, radiation, or large doses of corticosteroids. Evidence based on case reports has linked measles vaccine and measles infection to subsequent death in some severely immunocompromised children. Of the greater than 200 million doses of measles vaccine administered in the United States, fewer than five such deaths have been reported (5).
+Patients who have such conditions or are undergoing such therapies (excluding most HIV-infected patients) should not be given live measles virus vaccine.
+
+
+Patients with leukemia in remission who have not received chemotherapy for at least 3 months may receive live-virus vaccines. The exact amount of systemically absorbed corticosteroids and the duration of administration needed to suppress the immune system of an otherwise healthy child are not well defined. Most experts agree that steroid therapy usually does not contraindicate administration of live virus vaccine when it is short term (i.e., less than 2 weeks); low to moderate dose;
+long-term, alternate-day treatment with short-acting preparations; maintenance physiologic doses (replacement therapy); or administered topically (skin or eyes), by aerosol, or by intra-articular, bursal, or tendon injection (44). Although of recent theoretical concern, no evidence of increased severe reactions to live vaccines has been reported among persons receiving steroid therapy by aerosol, and such therapy is not in itself a reason to delay vaccination. The immunosuppressive effects of steroid treatment vary, but many clinicians consider a dose equivalent to either 2 mg/kg of body weight or a total of 20 mg per day of prednisone as sufficiently immunosuppressive to raise concern about the safety of vaccination with live virus vaccines (44). Corticosteroids used in greater than physiologic doses also can reduce the immune response to vaccines.
+Physicians should wait at least 3 months after discontinuation of therapy before administering a live-virus vaccine to patients who have received high systemically absorbed doses of corticosteroids for greater than or equal to 2 weeks.
+
+
+HIV-Infected Persons. Because of the increased risk for severe complications associated with measles infection and the absence of serious adverse events after measles vaccination among HIV-infected persons (41,45), ACIP has recommended that MMR vaccine be administered to all asymptomatic HIV-infected persons and that MMR vaccine be considered for administration to all symptomatic HIV-infected persons who would otherwise be eligible for measles vaccine -- even though the immune response may be attenuated in such persons (41,44,45). There is a theoretical risk for an increase (probably transient) in HIV viral load following MMR vaccination because such effects have been observed with other vaccines (46,47).
+
+
+Because of the recently reported case of pneumonitis in a measles vaccinee who had an advanced case of acquired immunodeficiency syndrome (AIDS) (48) and because of other evidence indicating a diminished antibody response to measles vaccination among severely immunocompromised persons (49), ACIP is re-evaluating the recommendations for vaccination of severely immunocompromised HIV-infected persons. In the interim, it may be prudent to withhold MMR or other measles-containing vaccines from HIV-infected persons with evidence of severe immunosuppression, defined as either a) CD4+ T-lymphocyte counts less than 750 for children ages less than 12 months, less than 500 for children ages 1-5 years, or less than 200 for persons ages greater than or equal to 6 years; or b) CD4+ T-lymphocytes constituting less than 15% of total lymphocytes for children ages less than 13 years or less than 14% for persons ages greater than or equal to 13 years (50,51).
+
+
+ACIP continues to recommend MMR for HIV-infected persons without evidence of measles immunity (47) who are not severely immunocompromised (50,51). Severely immunocompromised and other symptomatic HIV-infected patients who are exposed to measles should receive immune globulin (IG), regardless of prior vaccination status (44). In addition, health-care providers should weigh the risks and benefits of measles vaccination or IG prophylaxis for severely immunocompromised HIV-infected patients who are at risk for measles exposure because of outbreaks or international travel.
+
+
+Because the immunologic response to both live and killed antigen vaccines may decrease as HIV disease progresses (44,52), vaccination early in the course of HIV infection may be more likely to induce an immune response. Therefore, HIV-infected infants without severe immunosuppression should routinely receive MMR as soon as possible upon reaching their first birthday. Evaluation and testing of asymptomatic persons to identify HIV infection are not necessary before deciding to administer MMR or other measles-containing vaccine (44).
+
+
+Management of Patients with Contraindications to Measles Vaccine
+
+
+If immediate protection against measles is required for persons with contraindications to measles vaccination, passive immunization with IG, 0.25 mL/kg (0.11 mL/Ib) of body weight (maximum dose=15 mL), should be given as soon as possible after known exposure. Exposed symptomatic HIV-infected and other immunocompromised persons should receive IG regardless of their previous vaccination status; however, IG in usual doses may not be effective in such patients. For immunocompromised persons, the recommended dose is 0.5 mL/kg of body weight if IG is administered intramuscularly (maximum dose=15 mL). This corresponds to a dose of protein of approximately 82.5 mg/kg (maximum dose=2,475 mg).
+Intramuscular IG may not be needed if a patient with HIV infection is receiving 100-400 mg/kg IGIV at regular intervals and the last dose was given within 3 weeks of exposure to measles. Because the amounts of protein administered are similar, high-dose IGIV may be as effective as IG given intramuscularly. However, no data are available concerning the effectiveness of IGIV in preventing measles.
+
+
+Simultaneous Administration of Vaccines
+
+
+In general, simultaneous administration of the most widely used live and inactivated vaccines does not impair antibody responses or increase rates of adverse reactions (53). The administration of MMR vaccine yields results similar to the administration of individual measles, mumps, and rubella vaccines at different sites or at different times.
+
+
+Vaccines recommended for administration at 12-15 months of age can be administered at either one or two visits. There are equivalent antibody responses and no clinically significant increases in the frequency of adverse events when DTP, MMR, and OPV (or IPV) vaccines and H. influenzae type b conjugate vaccine (HbCV) are administered either simultaneously at different sites or at separate times. If a child might not be brought back for future vaccinations, all vaccines (including DTP {or DTaP}, OPV {or IPV}, MMR, varicella, HbCV, and hepatitis B vaccines) may be administered simultaneously, as appropriate to the child's age and previous vaccination status.
+
+
+MUMPS PREVENTION
+
+
+The following recommendations concerning adverse events associated with mumps vaccination update those applicable administered as a single antigen or as a component of MR or MMR vaccine. Information concerning adverse events associated with the measles component of MMR vaccine is reviewed earlier in this document (see Measles Prevention), and information concerning the rubella component is located in the previously published ACIP statement for rubella (18).
+
+
+Adverse Effects of Vaccine Use
+
+
+In field trials before licensure, illnesses did not occur more often in vaccinees than in unvaccinated controls (54). Reports of
+
+
+illnesses following mumps vaccination have mainly been episodes of parotitis and low-grade fever. Allergic reactions
+
+
+including rash, pruritus, and purpura have been temporally associated with mumps vaccination but are uncommon and
+
+
+usually mild and of brief duration. The reported occurrence of encephalitis within 30 days of receipt of a mumps-containing
+
+
+vaccine (0.4 per million doses) is not greater than the observed background incidence rate of CNS dysfunction in the normal population. Aseptic meningitis has been epidemiologically associated with receipt of the vaccine containing the Urabe strain of mumps virus, but not with the vaccine containing the Jeryl Lynn strain, the latter of which is used in vaccine distributed in the United States (5). During 1988-1992, 15 sentinel surveillance laboratories in the United Kingdom identified 13 aseptic meningitis cases that had occurred within 15-35 days after vaccination with the Urabe strain (i.e., 91 cases per | million doses distributed) (55). No vaccine-associated aseptic meningitis cases have been reported since 1992, when only the Jeryl Lynn strain has been used (23). Febrile seizures also have been infrequently reported. However, no evidence suggests that mumps vaccine causes residual seizure disorder (5). Although sensorineural deafness following mumps vaccination has been reported rarely, the data are inadequate to distinguish vaccine from nonvaccine causation. No association has been established between mumps vaccination and pancreatic damage or subsequent development of diabetes mellitus (5).
+
+
+Contraindications to Vaccine Use Pregnancy
+
+
+Although mumps vaccine virus has been shown to infect the placenta and fetus (56), there is no evidence that it causes congenital malformations in humans. However, because of the theoretical risk of fetal damage, it is prudent to avoid giving live virus vaccine to pregnant women. Live mumps vaccine, when combined with rubella vaccine, should not be administered to women known to be pregnant or who are considering becoming pregnant within the next 3 months. Women vaccinated with monovalent mumps vaccine should avoid becoming pregnant for 30 days after the vaccination. Routine precautions for vaccinating postpubertal women include asking if they are or may be pregnant, excluding those who say they are, and explaining the theoretical risk to those who plan to receive the vaccine. Vaccination during pregnancy should not be considered an indication for termination of pregnancy. However, the final decision about interruption of pregnancy must rest with the individual patient and her physician.
+
+
+Severe Febrile Illness
+
+
+Vaccine administration should not be postponed because of minor or intercurrent febrile illnesses, such as mild upper respiratory infections. However, vaccination of persons with severe febrile illnesses should generally be deferred until they have recovered from the acute phase of the illness.
+
+
+Allergic Reactions
+
+
+Hypersensitivity reactions rarely occur after the administration of MMR or any of its component vaccines. Most of these reactions are minor and consist of a wheal and flare or urticaria at the injection site. Immediate, anaphylactic reactions to MMR or its component vaccines are extremely rare. Although greater than 70 million doses of MMR vaccine have been distributed in the United States since VAERS was implemented in 1990, only 33 cases of anaphylactic reactions that occurred after MMR vaccination have been reported. Furthermore, only 11 of these cases a) occurred immediately after vaccination and b) occurred in persons who had symptoms consistent with anaphylaxis (CDC, unpublished data).
+
+
+In the past, persons who had a history of anaphylactic reactions (i.e., hives, swelling of the mouth or throat, difficulty breathing, hypotension, and shock) following egg ingestion were considered to be at increased risk for serious reactions after receipt of mumps-containing vaccines, which are produced in chick embryo fibroblasts. Protocols requiring caution were developed for skin testing and vaccinating persons who had had anaphylactic reactions after egg ingestion (30-34). However, the predictive value of such skin testing and the need for special protocols when vaccinating egg-allergic persons with mumps-containing vaccines is uncertain. The results of recent studies suggest that anaphylactic reactions to mumps- containing vaccines are not associated with hypersensitivity to egg antigens but with some other component of the vaccines.
+The risk for serious allergic reaction to these vaccines in egg-allergic patients is extremely low, and skin testing is not necessarily predictive of vaccine hypersensitivity (35-37). Therefore, ACIP is re-evaluating whether skin testing and the use of special protocols are routinely necessary when administering mumps-containing vaccines to persons who have a history of anaphylactic-like reactions after egg ingestion.
+
+
+MMR and its component vaccines contain hydrolyzed gelatin as a stabilizer. The literature contains a single case report of a person with an anaphylactic sensitivity to gelatin who had an anaphylactic reaction after receipt of the MMR vaccine licensed in the United States (38). Similar cases have occurred in Japan (39). Therefore, ACIP is currently considering recommendations for vaccination of persons who have had an anaphylactic reaction to gelatin or gelatin-containing products.
+In the meantime, such persons should be vaccinated with MMR or other mumps vaccines with extreme caution.
+
+
+Since mumps vaccine contains trace amounts of neomycin (25 ug), persons who have experienced anaphylactic reactions to topically or systemically administered neomycin should not receive mumps vaccine. Most often, neomycin allergy is manifested as a contact dermatitis, which is a delayed-type (cell-mediated) immune response, rather than anaphylaxis. In such persons, the adverse reaction, if any, to 25 ug of neomycin in the vaccine would be an erythematous, pruritic nodule or papule
+
+
+at the site of injection after 48-96 hours. A history of contact dermatitis to neomycin is not a contraindication to receiving mumps vaccine. Live mumps virus vaccine does not contain penicillin.
+
+
+Recent Injection of Immune Globulin
+
+
+The effect of immune globulin preparations on the response to mumps vaccine is unknown, but commercial immune globulin preparations contain mumps antibodies. Therefore, monovalent mumps or rubella-mumps vaccine should be given at least 2 weeks before the administration of an immune globulin preparation or deferred until approximately 3 months after the administration of an immune globulin preparation. For suggested time intervals between administration of immune globulin preparations and vaccines containing live measles virus, refer to (Table_S).
+
+
+Altered Immunocompetence
+
+
+In theory, replication of the mumps vaccine virus may be potentiated in patients with immune deficiency diseases and by the suppressed immune responses that occur with leukemia, lymphoma, or generalized malignancy or with therapy with corticosteroids, alkylating drugs, antimetabolites, or radiation. In general, patients with such conditions should not be given live mumps virus vaccine. Because vaccinated persons do not transmit mumps vaccine virus, the risk of mumps exposure for those patients may be reduced by vaccinating their close susceptible contacts.
+
+
+An exception to these general recommendations is in persons infected with HIV; asymptomatic HIV-infected children should receive MMR as soon as possible upon reaching their first birthday (44), and MMR vaccine should be considered for all symptomatic HIV-infected children who do not have evidence of severe immunosuppression (see Measles Prevention, Altered Immunocompetence).
+
+
+Patients with leukemia in remission whose chemotherapy has been terminated for at least 3 months may also receive live mumps virus vaccine. Most experts agree that steroid therapy usually does not contraindicate administration of live virus vaccine when it is short term (i.e., less than 2 weeks); low to moderate dose; long-term, alternate-day treatment with short- acting preparations; maintenance physiologic doses (replacement therapy); or administered topically (skin or eyes), by aerosol, or by intraarticular, bursal, or tendon injection (44). However, mumps vaccine should be avoided if systemic immunosuppressive levels are reached by prolonged, extensive, topical application.
+
+
+The following recommendations concerning adverse events associated with DTP vaccination update those applicable sections in "Diphtheria, Tetanus, and Pertussis: Recommendations for Vaccine Use and Other Preventive Measures --
+
+
+Side Effects and Adverse Reactions Following DTP Vaccination
+
+
+Local reactions (generally erythema and induration with or without tenderness) are common after the administration of vaccines containing diphtheria, tetanus, or pertussis antigens. Occasionally, a nodule may be palpable at the injection site of adsorbed products for several weeks. Sterile abscesses at the injection site have been reported rarely (6-10 events per million doses of DTP). Mild systemic reactions such as fever, drowsiness, fretfulness, and anorexia occur frequently. These reactions are substantially more common following the administration of DTP than of DT, but they are self-limited and can be safely managed with symptomatic treatment.
+
+
+Acetaminophen is frequently given by physicians to lessen fever and irritability associated with DTP vaccination, and it may be useful in preventing seizures among febrile-convulsion-prone children. However, fever that does not begin until greater than or equal to 24 hours after vaccination or persists for more than 24 hours after vaccination should not be assumed to be due to DTP vaccination. These new or persistent fevers should be evaluated for other causes so that treatment is not delayed for serious conditions such as otitis media or meningitis. Moderate-to-severe systemic events include high fever (i.e., temperature of greater than or equal to 40.5 C {greater than or equal to 105 F}); persistent, inconsolable crying lasting greater than or equal to 3 hours; collapse (hypotonic-hyporesponsive episode); or short-lived convulsions (usually febrile). These events occur infrequently. These events appear to be without sequelae (57-59). Other more severe neurologic events, such as a prolonged convulsion or encephalopathy, although rare, have been reported in temporal association with DTP administration.
+
+
+Approximate rates for the occurrence of adverse events following receipt of DTP (regardless of dose number in the series or age of the child) are shown in (Table_6) (60,61). The frequencies of local reactions and fever are substantially higher with increasing numbers of doses of DTP, while other mild-to-moderate systemic reactions (e.g., fretfulness, vomiting) are substantially less frequent (59-61).
+
+
+Concern about the possible role of pertussis vaccine in causing neurologic reactions has been present since the earliest days of vaccine use. Rare but serious acute neurologic illnesses, including encephalitis/encephalopathy and prolonged convulsions, have been anecdotally reported following receipt of whole-cell pertussis vaccine given as DTP (62,63). Whether pertussis vaccine causes or is only coincidentally related to such illnesses or reveals an inevitable event has been difficult to determine conclusively for the following reasons: a) serious acute neurologic illnesses often occur or become manifest among children during the first year of life irrespective of vaccination; b) there is no specific clinical sign, pathologic finding, or laboratory test which can determine whether the illness is caused by the DTP; c) it may be difficult to determine with certainty whether infants less than 6 months of age are neurologically normal, which complicates assessment of whether vaccinees were already neurologically impaired before receiving DTP; and d) because these events are exceedingly rare, appropriately designed large studies are needed to address the question.
+
+
+Despite these methodologic difficulties, the National Childhood Encephalopathy Study (NCES) and other controlled epidemiologic studies have provided evidence that DTP can cause acute encephalopathy (64-68). This adverse event occurs rarely, with an estimated risk of zero to 10.5 episodes per million DTP vaccinations (68). A detailed follow-up of the NCES indicated that children who had had a serious acute neurologic illness after DTP administration were significantly more likely than children in the control group to have chronic nervous system dysfunction 10 years later. These children with chronic nervous system dysfunction were more likely than children in the control group to have received DTP within 7 days of onset of the original serious acute neurologic illness (i.e., 12 {3.3%} of 367 children vs. six {0.8%} of 723 children) (69).
+
+
+After reviewing the follow-up data, IOM concluded that the NCES provided evidence of an association between DTP and chronic nervous system dysfunction in children who had had a serious acute neurologic illness after vaccination with DTP.
+The committee proposed three possible explanations for this association. First, the acute neurologic illness and subsequent chronic nervous system dysfunction might have been caused by DTP. Second, DTP might trigger an acute neurologic illness and subsequent chronic nervous system dysfunction in children who have underlying brain or metabolic abnormalities. Such children might experience similar chronic dysfunction in the absence of DTP vaccination if other stimuli (e.g., fever or infection) are present. Third, DTP might cause an acute neurologic illness in children who have underlying brain or metabolic abnormalities that would inevitably have led to chronic nervous system dysfunction even if the acute neurologic illness had not developed (6). IOM concluded that the NCES data do not support one explanation over another.
+
+
+According to IOM, the balance of evidence was consistent with a causal relationship between DTP and some forms of chronic nervous system disorders in children who had developed an acute neurologic disorder after receiving DTP. However, IOM also concluded that the results were insufficient to determine whether DTP increases the overall risk for chronic nervous system dysfunction in children.
+
+
+A subcommittee of the National Vaccine Advisory Committee (NVAC) also reviewed the study and concluded that the results were insufficient to determine whether DTP administration before the acute neurologic event influenced the potential for neurologic dysfunction 10 years later (Ad hoc Subcommittee of the NVAC, unpublished data, 1994). ACIP concurs with this evaluation.
+
+
+Although the NCES examined and reported risk for the 7 days after DTP vaccination, the increased risk for serious acute neurologic illness occurred primarily during the first 3 days after DTP administration (64). Thus, if an association between DTP and chronic encephalopathy exists, the risk is primarily in the first 3 days after DTP vaccination.
+
+
+Among a subset of children who were participating in the NCES and who had infantile spasms, both DTP and DT vaccination appeared either to precipitate early manifestations of the condition or to lead to its identification by parents (70). IOM reviewed this and other studies and concluded that neither vaccine causes the illness (71,72).
+
+
+Sudden infant death syndrome (SIDS) is listed on death certificates as the cause of death for 5,000-6,000 infants (ages 0-364 days) each year in the United States. Because the peak incidence of SIDS for infants occurs at 2-4 months of age, many instances of a close temporal relation between SIDS and receipt of DTP are to be expected by simple chance. Only one methodologically rigorous study has suggested that DTP vaccination might cause SIDS (73). A total of four deaths were reported within 3 days of DTP vaccination, compared with 1.36 expected deaths. However, these deaths were unusual in that three of the four occurred within a 13-month interval during the 12-year study. These four children also tended to be vaccinated at older ages than their controls, suggesting that they might have had other unrecognized risk factors for SIDS independent of vaccination. In contrast, DTP vaccination was not associated with SIDS in several larger studies performed in the past decade (62,74-76). In addition, none of three studies that examined unexpected deaths among infants not classified as SIDS found an association with DTP vaccination (73,75,76). IOM reviewed these studies and concluded that the available information does not establish a causal relationship between DTP and SIDS (4).
+
+
+IOM concluded recently that no available evidence indicates that DTP might cause transverse myelitis, other more subtle neurologic disorders (e.g., hyperactivity, learning disorders, and infantile autism), and progressive degenerative conditions of
+
+
+CNS (4). Furthermore, one study indicated that children who received pertussis vaccine exhibited fewer school problems than those who did not, even after adjustment for socioeconomic status (77).
+
+
+Recent data suggest that infants and young children who have ever had convulsions (febrile or afebrile) or who have immediate family members with such histories are more likely to have seizures following DTP vaccination than those without such histories (78,79). For those with a family history of seizures, the increased risks of seizures occurring within 3 days of receipt of DTP or 4-28 days following receipt of DTP are identical, suggesting that these histories are nonspecific risk factors and are unrelated to DTP vaccination (79).
+
+
+Rarely, immediate anaphylactic reactions (i.e., swelling of the mouth, breathing difficulty, hypotension, or shock) have been reported after receipt of preparations containing diphtheria, tetanus, and/or pertussis antigens. However, no deaths caused by anaphylaxis following DTP vaccination have been reported to CDC since the inception of vaccine-adverse-events reporting in 1978, a period during which more than 80 million doses of publicly purchased DTP vaccine were administered. While substantial underreporting exists in this passive surveillance system, the severity of anaphylaxis and its immediacy following vaccination suggest that such events are likely to be reported. Although no causal relation to any specific component of DTP has been established, the occurrence of true anaphylaxis usually contraindicates further doses of any one of these components. Rashes that are macular, papular, petechial, or urticarial and appear hours or days after a dose of DTP are frequently antigen-antibody reactions of little consequence or are due to other causes, such as viral illnesses, and are unlikely to recur following subsequent injections (80,81). In addition, there is no evidence for a causal relation between DTP vaccination and hemolytic anemia or thrombocytopenic purpura.
+
+
+Precautions and Contraindications General Considerations
+
+
+The decision to administer or delay DTP vaccination because of a current or recent febrile illness depends largely on the severity of the symptoms and their etiology. Although a moderate or severe febrile illness is sufficient reason to postpone vaccination, minor illnesses such as mild upper-respiratory infections with or without low-grade fever are not contraindications. If ongoing medical care cannot be assured, taking every opportunity to provide appropriate vaccinations is particularly important.
+
+
+Children with moderate or severe illnesses with or without fever can receive DTP as soon as they have recovered. Waiting a short period before administering DTP avoids superimposing the adverse effects of the vaccination on the underlying illness or mistakenly attributing a manifestation of the underlying illness to vaccination.
+
+
+Routine physical examinations or temperature measurements are not prerequisites for vaccinating infants and children who appear to be in good health. Appropriate immunization practice includes asking the parent or guardian if the child is ill, postponing DTP vaccination for those with moderate or severe acute illnesses, and vaccinating those without contraindications or precautionary circumstances.
+
+
+When an infant or child returns for the next dose of DTP, the parent should always be questioned about any adverse events that might have occurred following the previous dose.
+
+
+A history of prematurity generally is not a reason to defer vaccination (82-84). Preterm infants should be vaccinated according to their chronological age from birth.
+
+
+Immunosuppressive therapies -- including irradiation, antimetabolites, alkylating agents, cytotoxic drugs, and corticosteroids (used in greater than physiologic doses) -- may reduce the immune response to vaccines. Short-term (less than 2-weck) corticosteroid therapy or intra-articular, bursal, or tendon injections with corticosteroids should not be immunosuppressive.
+Although no specific studies with pertussis vaccine are available, if immunosuppressive therapy will be discontinued shortly, it is reasonable to defer vaccination until the patient has been off therapy for 1 month; otherwise, the patient should be vaccinated while still on therapy (85).
+
+
+Special Considerations for Preparations Containing Pertussis Vaccine
+
+
+Precautions and contraindications guidelines that were previously published regarding the use of pertussis vaccine were based on three assumptions about the risks for adverse events associated with pertussis vaccination: a) that the vaccine on rare occasions caused acute encephalopathy resulting in permanent brain damage; b) that pertussis vaccine aggravated preexisting CNS disease; and c) that certain nonencephalitic reactions are predictive of more severe reactions with subsequent doses (86).
+In addition, children from whom pertussis vaccine was withheld were thought to be well protected by herd immunity, a belief that is no longer valid. The current revised ACIP recommendations reflect better understanding of the risks associated not only with pertussis vaccine but also with pertussis disease.
+
+
+Contraindications
+
+
+If any of the following events occur in temporal relationship to the administration of DTP, further vaccination with DTP is contraindicated (Table_7):
+
+
+1. An immediate anaphylactic reaction. The rarity of such reactions to DTP is such that they have not been adequately studied. Because of uncertainty as to which component of the vaccine might be responsible, no further vaccination with any of the three antigens in DTP should be carried out. Alternatively, because of the importance of tetanus vaccination, such individuals may be referred for evaluation by an allergist and desensitized to tetanus toxoid if a specific allergy can be demonstrated (87,88).
+
+
+2. Encephalopathy (not due to another identifiable cause). This is defined as an acute, severe CNS disorder occurring within 7 days following vaccination and generally consisting of major alterations in consciousness, unresponsiveness, generalized or focal seizures that persist more than a few hours, with failure to recover within 24 hours. Even though causation by DTP cannot be established, no subsequent doses of pertussis vaccine should be given. It may be desirable to delay for months before administering the balance of the doses of DT necessary to complete the primary schedule.
+Such a delay allows time for clarification of the child's neurologic status.
+
+
+Precautions
+
+
+If any of the following events occur in temporal relation to receipt of DTP, the decision to give subsequent doses of vaccine containing the pertussis component should be carefully considered (Table_7). Although these events were considered absolute contraindications in previous ACIP recommendations, there may be circumstances, such as a high incidence of pertussis, in which the potential benefits outweigh possible risks, particularly because these events are not associated with permanent sequelae (86). The following events were previously considered contraindications and are now considered precautions:
+
+
+1. Temperature of greater than or equal to 40.5 C (greater than or equal to 105 F) within 48 hours not due to another identifiable cause. Such a temperature is considered a precaution because of the likelihood that fever following a subsequent dose of DTP also will be high. Because such febrile reactions are usually attributed to the pertussis component, vaccination with DT should not be discontinued.
+
+
+2. Collapse or shock-like state (hypotonic-hyporesponsive episode) within 48 hours. Although these uncommon events have not been recognized to cause death nor to induce permanent neurological sequelae, it is prudent to continue vaccination with DT, omitting the pertussis component (58,89).
+
+
+3. Persistent, inconsolable crying lasting greater than or equal to 3 hours, occurring within 48 hours. Follow-up of infants who have cried inconsolably following DTP vaccination has indicated that this reaction, though unpleasant, is without long-term sequelae and not associated with other reactions of greater significance (59). Inconsolable crying occurs most frequently following the first dose and is less frequently reported following subsequent doses of DTP (60).
+However, crying for greater than 30 minutes following DTP vaccination can be a predictor of increased likelihood of recurrence of persistent crying following subsequent doses (59). Children with persistent crying have had a higher rate of substantial local reactions than children who had other DTP-associated reactions (including high fever, seizures, and hypotonic-hyporesponsive episodes), suggesting that prolonged crying was really a pain reaction (89).
+
+
+4. Convulsions with or without fever occurring within 3 days. Short-lived convulsions, with or without fever, have not been shown to cause permanent sequelae (57,90). Furthermore, the occurrence of prolonged febrile seizures (i.e., status epilepticus ***), irrespective of their cause, involving an otherwise normal child does not substantially increase the risk for subsequent febrile (brief or prolonged) or afebrile seizures. The risk is significantly increased (p=0.018) only among those children who are neurologically abnormal before their episode of status epilepticus (91). Accordingly, although a convulsion following DTP vaccination has previously been considered a contraindication to further doses, under certain circumstances subsequent doses may be indicated, particularly if the risk of pertussis in the community is high. Ifa child has a seizure following the first or second dose of DTP, it is desirable to delay subsequent doses until the child's neurologic status is better defined. By the end of the first year of life, the presence of an underlying neurologic disorder has usually been determined and appropriate treatment instituted. DT vaccine should not be administered before a decision has been made about whether to restart the DTP series. Regardless of which vaccine is given, it is prudent also to administer acetaminophen, 15 mg/kg of body weight, at the time of vaccination and every 4 hours subsequently for 24 hours (92,93).
+
+
+Vaccination of infants and young children who have underlying neurologic disorders
+
+
+Infants and children with recognized, possible, or potential underlying neurologic conditions present a unique problem. They seem to be at increased risk for the appearance of manifestations of the underlying neurologic disorder within 2-3 days after
+
+
+vaccination. However, more prolonged manifestations or increased progression of the disorder or exacerbation of the disorder as a result of DTP vaccination have not been recognized (94). In addition, most neurologic conditions in infancy and young childhood are associated with evolving, changing neurological findings. Functional abnormalities are often unmasked by progressive neurologic development. Thus, confusion over the interpretation of progressive neurologic signs may arise when DTP vaccination or any other therapeutic or preventive measure is carried out.
+
+
+Protection against diphtheria, tetanus, and pertussis is as important for children with neurologic disabilities as for other children. Such protection may be even more important for neurologically disabled children. They often receive custodial care or attend special schools where the risk of pertussis is greater because DTP vaccination is avoided for fear of adverse reactions. Also, if pertussis affects a neurologically disabled child who has difficulty in handling secretions and in cooperating with symptomatic care, it may aggravate preexisting neurologic problems because of anoxia, intracerebral hemorrhages, and other manifestations of the disease. Whether and when to administer DTP to children with proven or suspected underlying neurologic disorders must be decided on an individual basis. Important considerations include the current local incidence of pertussis, the near absence of diphtheria in the United States, and the low risk of infection with Clostridium tetani. On the basis of these considerations and the nature of the child's disorder, the following approaches are recommended:
+
+
+1. Infants and children with previous convulsions. Infants and young children who have had prior seizures, whether febrile or afebrile, appear to be at increased risk for seizures following DTP vaccination than children and infants without these histories (79). A convulsion within 3 days of DTP vaccination in a child with a history of convulsions may be initiated by fever caused by the vaccine in a child prone to febrile seizures, may be induced by the pertussis component, or may be unrelated to the vaccination. As noted earlier, current evidence indicates that seizures following DTP vaccination do not cause permanent brain damage. Among infants and children with a history of previous seizures, it is prudent to delay DTP vaccination until the child's status has been fully assessed, a treatment regimen established, and the condition stabilized. It should be noted, however, that delaying DTP vaccination until the second 6 months of life will increase the risk of febrile seizures among persons who are predisposed. When DTP or DT is given, acetaminophen, 15 mg/kg, should also be given at the time of the vaccination and every 4 hours for the ensuing 24 hours (92,93).
+
+
+2. Infants as yet unvaccinated who are suspected of having underlying neurologic disease. It is prudent to delay initiation of vaccination with DTP or DT (but not other vaccines) until further observation and study have clarified the child's neurologic status and the effect of treatment. The decision as to whether to begin vaccination with DTP or DT should be made no later than the child's first birthday.
+
+
+3. Children who have not received a complete series of vaccine and who have a neurologic event occurring between doses. Infants and children who have received one or more doses of DTP and who experience a neurologic disorder (e.g., a seizure) not temporally associated with vaccination, but before the next scheduled dose, present a special management challenge. If the seizure or other disorder occurs before the first birthday and before completion of the first three doses of the primary series of DTP, further doses of DTP or DT (but not other vaccines) should be deferred until the infant's status has been clarified. The decision whether to use DTP or DT to complete the series should be made no later than the child's first birthday and should take into consideration the nature of the child's problem and the benefits and possible risks of the vaccine. If the seizure or other disorder occurs after the first birthday, the child's neurologic status should be evaluated to ensure that the disorder is stable before a subsequent dose of DTP is given.
+
+
+4. Infants and children with stable neurologic conditions. Infants and children with stable neurologic conditions, including well-controlled seizures, may be vaccinated. The occurrence of single seizures (temporally unassociated with DTP) do not contraindicate DTP vaccination, particularly if the seizures can be satisfactorily explained. Parents of infants and children with histories of convulsions should be informed of the increased risk of postvaccination seizures.
+Acetaminophen, 15 mg/kg, every 4 hours for 24 hours, should be given to children with such histories to reduce the possibility of postvaccination fever (92,93).
+
+
+5. Children with resolved or corrected neurologic disorders. DTP vaccination is recommended for infants with certain neurologic problems, such as neonatal hypocalcemic tetany or hydrocephalus (following placement of a shunt and without seizures), that have been corrected or have clearly subsided without residua.
+
+
+Vaccination of infants and young children who have a family history of convulsion or other CNS disorder A family history of convulsions or other CNS disorder is not a contraindication to pertussis vaccination (95). Acetaminophen
+
+
+should be given at the time of DTP vaccination and every 4 hours for 24 hours to reduce the possibility of postvaccination fever (92,93).
+
+
+Preparations Containing Diphtheria Toxoid and Tetanus Toxoid
+
+
+The only contraindication to tetanus and diphtheria toxoids is a history of a neurologic or severe hypersensitivity reaction following a previous dose. Vaccination with tetanus and diphtheria toxoids is not known to be associated with an increased risk of convulsions. Local side effects alone do not preclude continued use. If an anaphylactic reaction to a previous dose of tetanus toxoid is suspected, intradermal skin testing with appropriately diluted tetanus toxoid may be useful before a decision is made to discontinue tetanus toxoid vaccination (86). In one study, 94 of 95 persons with histories of anaphylactic symptoms following a previous dose of tetanus toxoid were nonreactive following intradermal testing and tolerated further tetanus toxoid challenge without incident (86). One person had erythema and induration immediately following skin testing, but tolerated a full IM dose without adverse effects. Mild, nonspecific skin-test reactivity to tetanus toxoid, particularly if used undiluted, appears to be fairly common. Most vaccinees develop inconsequential cutaneous delayed hypersensitivity to the toxoid. Although very rare, severe hypersensitivity reactions may occur after receipt of tetanus-toxoid-containing vaccines; these reactions can be life-threatening (5).
+
+
+Persons who experienced Arthus-type hypersensitivity reactions or a temperature of greater than 103 F ( greater than 39.4 C) following a prior dose of tetanus toxoid usually have high serum tetanus antitoxin levels and should not be given even emergency doses of Td more frequently than every 10 years, even if they have a wound that is neither clean nor minor.
+
+
+If a contraindication to using tetanus-toxoid-containing preparations exists for a person who has not completed a primary series of tetanus toxoid immunization and that person has a wound that is neither clean nor minor, only passive immunization should be given using tetanus IG (TIG).
+
+
+On the basis of a) a report of a 42-year-old man who had GBS on three separate occasions after receipt of tetanus toxoid and b) evidence that a vaccine-induced immunologic response can cause GBS, IOM concluded that tetanus-toxoid-containing vaccines can trigger the onset of GBS in adults. GBS can be a life-threatening disease. Persons who have a history of GBS associated with a particular vaccine may be at increased risk for recurrent GBS after subsequent doses of that vaccine (5).
+However, in a study in which an estimated 1.2 million doses of tetanus-containing toxoid were administered to persons greater than 18 years of age, two cases of GBS were expected by chance alone during the 6 weeks after vaccination, and only one case was reported (CDC, unpublished data). This finding suggests that the risk for GBS after administration of tetanus toxoid is extremely low.
+
+
+No increased risk for GBS has been observed with the use of DTP in children. In a study of 0.7 million children of preschool- ages who were vaccinated with DTP during a 7-year period, three cases of GBS were expected by chance alone during the 6 weeks after vaccination, and only two cases were reported (17).
+
+
+Because tetanus vaccination has been associated rarely with recurrence of GBS, the decision to administer additional doses of tetanus-toxoid-containing vaccine to persons who have had GBS within 6 weeks after receiving tetanus toxoid should be based on the benefits of subsequent vaccination and the risk for recurrence of GBS. For example, vaccination is usually
+
+
+justified for children whose primary immunization schedules are incomplete (i.c., fewer than three doses have been received);
+but routine booster vaccination probably is not indicated for adults who have received three or more doses.
+
+
+Vaccination with tetanus-toxoid-containing vaccines has been associated with brachial neuritis in adult vaccinees, with a relative risk of 5-10 in comparison with the population-based background incidence and a 1-month attributable incidence of approximately one-half to one case per 100,000 recipients of tetanus toxoid (5).
+
+
+Although no evidence exists that tetanus and diphtheria toxoids are teratogenic, waiting until the second trimester of pregnancy to administer Td is a reasonable precaution for minimizing any concern about the theoretical possibility of such reactions.
+
+
+Misconceptions Concerning Contraindications to DTP
+
+
+Some health-care providers inappropriately consider certain conditions or circumstances as contraindications to DTP vaccination. These include the following:
+
+
+1. Soreness, redness, or swelling at the DTP vaccination site or temperature of less than 40.5 C (less than 105 F).
+2. Mild, acute illness with low-grade fever or mild diarrheal illness affecting an otherwise healthy child.
+3. Current antimicrobial therapy or the convalescent phase of an acute illness.
+4. Recent exposure to an infectious disease.
+5. Prematurity. The appropriate age for initiating vaccination among the prematurely born infant is the usual chronological age from birth . Full doses (0.5 mL) of vaccine should be used.
+6. History of allergies or relatives with allergies.
+7. Family history of convulsions.
+8. Family history of SIDS.
+9. Family history of an adverse event following DTP vaccination

@@ -1,0 +1,110 @@
+﻿Malaria can be a severe, potentially fatal disease.
+
+
+- Symptoms of malaria are similar to other diseases, and suspected malaria should be confirmed promptly using a diagnostic test.
+
+
+If confirmed, treatment with an approved malaria medication should be started as soon as possible.
+
+
+- Many malaria-endemic countries face substantial challenges that limit patient access to quality case management services.
+
+
+
+
+Malaria can be a severe and potentially fatal disease and is a medical emergency. Suspected malaria should be diagnosed with a laboratory test and treated promptly with a recommended antimalarial drug to keep the illness from progressing and to help prevent further spread of infection in the community.
+
+
+In the malaria-endemic world, ensuring timely and effective malaria diagnosis and treatment can be challenging for several reasons:
+
+
+- Malaria shares clinical symptoms with other diseases and conditions, and many malaria-~endemic countries lack a consistent supply of resources, such as microscopes and rapid diagnostic tests (RDTs), to make a definitive diagnosis.
+
+
+ Health personnel in these areas are often undertrained, underequipped, and underpaid.
+
+
+- Health personnel in the malaria~endemic world often face excessive patient loads and must divide their attention between malaria and other equally severe infectious diseases such as pneumonia, diarrhea, tuberculosis, and HIV.
+ Supply chain systems are often inadequate and malaria medications are not always available when and where they are needed.
+
+
+Malaria may be "uncomplicated" or "severe."
+ Uncomplicated malaria: Symptoms may include fever, chills, sweats, headaches, muscle pains, nausea, and vomiting.
+ Severe malaria: Symptoms may include confusion, coma, focal neurologic signs, severe anemia, respiratory difficulties, and organ dysfunction.
+
+
+Patients with symptoms of severe malaria should be assessed and treated immediately. Plasmodium falciparum is the most dangerous malaria species and the most common cause of severe malaria.
+
+
+
+
+
+
+When a patient with fever presents to a health facility in the malaria~-endemic world, a health worker may suspect malaria based on the patient's symptoms. However, these symptoms are similar to those seen with many other diseases, making accurate clinical diagnosis difficult. For many years, national malaria programs recommended treating patients for malaria based on symptoms alone, because most health facilities did not
+
+
+have the equipment and trained staff to perform laboratory tests. Malaria was extremely common and potentially fatal, and providing treatment based on clinical diagnosis alone could save lives.
+
+
+In 2010, the World Health Organization recommended confirming all suspected cases of malaria with a diagnostic test prior to treatment. In the subsequent years, national malaria programs in endemic areas have continued to expand access to RDTs and high-quality microscopy services for malaria in health facilities. In addition, community health workers (CHWs) in many countries have received training on integrated community case management of common childhood illnesses, including malaria, pneumonia, and diarrhea. Many CHWs are now able to use RDTs for febrile patients and to treat them with recommended antimalarials if they are positive.
+
+
+To learn more about the laboratory tests used to definitively diagnose malaria, please see the links below.
+
+
+The World Health Organization recommends treating patients with malaria within 24 - 48 hours after their first symptoms appear.
+Treatment of a patient with malaria should follow the country's national guidelines, which typically take the following into consideration:
+- Type (species) of the infecting parasite
+
+
+- Clinical status of the patient
+
+
+- Accompanying illness(es) or condition(s)
+
+
+- Pregnancy status
+
+
+- Drug allergies, and other medications taken by the patient
+
+
+- Where the infection was acquired and the presence of antimalarial drug resistance.
+
+
+Uncomplicated malaria
+
+
+Patients who have uncomplicated malaria can usually be treated on an outpatient basis; however, patients with severe malaria should be hospitalized.
+
+
+The medications recommended for treatment of uncomplicated malaria cases are active against the parasite forms in the blood (the forms that cause disease). The World Health Organization (WHO) recommends the use of artemisinin-based combination therapies (e.g., artemether- lumefantrine or dihydroartemisinin-piperaquine) for the treatment of uncomplicated malaria to prevent or delay the development of antimalarial resistance. WHO recently expanded the recommendation for Artemisinin-based combination therapy, or ACT, use to include infants less than five kilograms bodyweight and all pregnant women, even those in the first trimester. Artemether-lumefantrine is the preferred option for use in the first trimester of pregnancy.
+
+
+ In most areas of the world, P. falciparum is resistant to chloroquine. In the following limited areas, P. falciparum remains chloroquine sensitive, and chloroquine can be used for treatment of uncomplicated malaria:
+
+
+- Central America west of Panama Canal,
+- Haiti, and
+- the Dominican Republic.
+
+
+Uncomplicated P. vivax, P. ovale, P. malariae, or P. knowlesi malaria can be treated with either an ACT or chloroquine, with the exception of P.
+vivax acquired in Papua New Guinea and Indonesia which should be treated with an ACT.
+
+
+A second drug, either primaquine or tafenoquine, is required to treat the dormant parasite liver forms (hypnozoites) of P. vivax and P. ovale that can cause relapse. Neither primaquine nor tafenoquine should be taken by pregnant women or by people who are deficient in glucose-6- phosphate dehydrogenase (G6PD), because these medications can cause hemolytic anemia. In some countries, primaquine is also used in a single low dose to prevent secondary transmission of P. falciparum.
+
+
+Avoid counterfeit and substandard drugs sold in some areas or countries.
+
+
+
+
+Severe malaria occurs when an infection is complicated by serious organ failure or abnormalities in the patient's blood or metabolism.
+
+
+Patients who have severe P. falciparum malaria or who cannot take oral medications should be treated with parenteral medications in a hospital.
+The World Health Organization recommends parenteral artesunate for treatment of severe P. falciparum malaria in both adults and children, including pregnant women in all trimesters and lactating women. If artesunate is not available, parenteral artemether should be used in
+preference to quinine for the treatment of severe malaria. Intravenous treatment for severe malaria should be followed by a complete course of an oral ACT.
+Some malaria-endemic countries recommend pre-referral treatment with artesunate be given by suppository or injection before a severely ill patient is referred to a hospital for definitive care.

@@ -1,0 +1,69 @@
+﻿Adherence to prescribed medications is associated with improved clinical outcomes for chronic disease management and reduced mortality from chronic conditions. Conversely, nonadherence is associated with higher rates of hospital admissions, suboptimal health outcomes, increased morbidity and mortality, and increased health care costs.
+
+
+In the United States, 3.8 billion prescriptions are written annually. Approximately one in five new prescriptions are never filled, and among those filled, approximately 50% are taken incorrectly, particularly with regard to timing, dosage, frequency, and duration.
+
+
+Direct health care costs associated with nonadherence have grown to approximately $100–$300 billion of U.S. health care dollars spent annually. Improving medication adherence is a public health priority and could reduce the economic and health burdens of many diseases and chronic conditions.
+
+
+Understanding Medication Nonadherence:
+
+
+Medication adherence is a complex behavior influenced by factors along the continuum of care, relating to the patient, providers, and health systems.
+
+
+Patient related factors include:
+  Unintentional factors: forgetting to take medication or obtain refills, inadequate understanding of dose or schedules
+  Intentional factors: active decision to stop or modify treatment based on ability to pay, beliefs and attitudes about disease, medication side effects, and expectations for improvement
+  Additional barriers: lack of engagement in treatment decisions, impaired cognition, substance abuse, depression, other mental health conditions
+
+
+Provider related factors:
+  Barriers to communicating with patients and caregivers
+  Complex dosing regimens
+  Limited coordination of care among multiple providers
+
+
+Health care system factors:
+  Limited access to appropriate provider for prescriptions or refills
+  Restricted drug coverage, high costs and copayments
+  Unclear medication labeling and instructions
+  Limited availability of culturally appropriate patient education materials
+  Inadequate provider time to review benefits, risks, and alternatives
+
+
+Innovative Strategies to Improve Medication Adherence:
+
+
+1. Use of pillboxes and blister packs: A proven cost effective strategy to reducing unintentional nonadherence by organizing medication regimens in clear and simple ways.
+
+
+ Electronic pill monitors: Can remind patients to take their medication and provide messages to health care providers when a scheduled drug dose is missed.
+
+
+ Team based or coordinated care: Patients assigned to team based care (pharmacist led medication reconciliation, patient education, collaborative care, voice messaging) were significantly more adherent (89%) compared with patients not receiving team based care (74%).
+
+
+ Lowering economic barriers: Eliminating or reducing health plan copays for essential medications increased adherence rates by 3%–4%.
+
+
+ Health information technology: Electronic prescribing increased first fill medication adherence by 10% compared with paper prescriptions.
+
+
+Opportunities in Medication Adherence Outcomes:
+
+
+  Few studies have shown that benefits were maintained over time; sustainable interventions are needed.
+  Standardizing research methodology would help comparability across interventions.
+  Patient specific tailored approaches are needed to identify reasons for nonadherence.
+ Interventions could be more effective if patient's health literacy, cultural background, and language preference are taken into account.
+
+
+
+
+Successful strategies to improve medication adherence include:
+ Ensuring access to providers across the continuum of care and implementing team based care
+ Educating and empowering patients to understand the treatment regimen and its benefits
+ Reducing barriers to obtaining medication, including cost reduction
+ Use of health information technology tools to improve decision making and communication

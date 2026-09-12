@@ -1,0 +1,69 @@
+﻿The Community Preventive Services Task Force (CPSTF) recommends tailored pharmacy-based interventions to support adherence to medications prescribed to prevent cardiovascular disease (CVD). The CPSTF found these interventions to be cost-effective for preventing CVD.
+
+
+The Surgeon General's 2020 Call to Action to Control Hypertension encourages the use of supportive strategies for medication adherence, including pharmacists as integral members of hypertension care teams.
+
+
+Such interventions aim to help patients who are at risk for CVD take their medications as prescribed. Interventions include:
+
+
+Assessment:
+- Interviews or assessment tools identify adherence barriers.
+
+
+Tailored guidance and services:
+- A pharmacist uses assessment results to develop and deliver tailored guidance and services that aim to remove or reduce identified barriers.
+- Tailored guidance includes focused medication counseling or motivational interviewing sessions.
+- Tailored services include: patient tools (pillboxes, medication cards, calendars); medication refill synchronization; enhanced follow-up.
+
+
+Important Definitions:
+
+
+Medication nonadherence is when a patient does not take a prescribed medicine or follow the provider's instructions for taking the medicine. Barriers can appear at the patient, provider, or health system level. Nonadherence is associated with uncontrolled blood pressure and higher rates of hospital admissions.
+
+
+The Pharmacists' Patient Care Process was established by the Joint Commission of Pharmacy Practitioners to help pharmacists deliver patient care and services in a consistent way.
+
+
+Factors that affect a patient's medication adherence may include:
+- Medication cost
+- Busy schedules
+- Ease of scheduling appointments
+- Time needed to attend appointments
+- Ease and comfort level of communicating with providers
+- Understanding when and how often to take medications
+- Ability to sync medications and receive automated refills
+- Health condition severity and beliefs about their condition
+- Expectations around possible effects of the medication
+
+
+Studies have shown that patients who were adherent to their antihypertensive medications were 30% to 45% more likely to achieve blood pressure control compared to those who were not.
+
+
+Nonadherence to medications to prevent CVD has been associated with a significant increase in the risk of premature death from any cause, CVD death, hospitalization for heart attack or heart failure, and coronary revascularization procedures.
+
+
+Strategies that support the pharmacists' patient care process:
+
+
+1. Medication therapy management (MTM): Includes a broad range of health care services provided by pharmacists. It allows pharmacists to actively manage patients' medications and identify, prevent, and resolve medication-related problems.
+
+
+2. Appointment-based model (ABM): A patient-focused care model where patients have a designated appointment day to pick up all medications. Pharmacy staff call patients before their appointment to identify changes and confirm refills.
+
+
+3. Pharmacist collaborative practice agreement (CPA): A formal agreement between prescriber(s) and pharmacist(s) that allows pharmacists to perform specific patient care functions, such as renewing prescriptions, modifying medication therapy, and ordering lab tests.
+
+
+4. Text messaging: Used to communicate health information to patients to improve medication adherence.
+
+
+
+
+
+
+CVD is a major driver of health care costs in the United States—with over $363.4 billion going toward health care services, medications, and lost productivity due to premature death each year.
+
+
+Higher adherence to prescribed medications for congestive heart failure, high blood pressure, and high LDL cholesterol levels reduced annual health care spending per person by an estimated $7,800, $3,900, and $1,250, respectively, compared to patients with poorer adherence.

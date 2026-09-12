@@ -1,0 +1,21 @@
+﻿The WHO Primary Care Checklist summarizes ten key components of the patient encounter and encompasses the “5C's of primary care”: first contact accessibility, continuity, coordination, comprehensiveness and person-centeredness. It is intended to guide health workers in taking a structured systematic approach to a longitudinal primary care visit and allow flexibility to address individual needs. It serves as a practical tool to enhance communication, improve safety, and promote a person-centered visit.
+Discuss the main reason for the visit.
+Check for emergency signs and symptoms.
+Document vital signs.
+Review any healthcare interaction since the last visit.
+Discuss social and other factors that influence health.
+Review allergies, medications and any related concerns.
+Do a relevant physical examination.
+Discuss diagnoses and update the problem list.
+Discuss healthy choices, prevention and immunizations.
+Discuss and document follow-up, including when to seek urgent care.
+The way a person expresses their reason for a visit provides critical information for a primary care encounter.
+Early recognition of life-threatening illness or injury is essential to reduce morbidity and mortality. Every person should be evaluated for danger signs and symptoms at the beginning of each encounter. If present, initiate appropriate interventions and arrange emergency transfer.
+Checking and documenting vital signs is important and should be done at every clinical encounter when relevant. Vital signs should include respiratory rate, heart rate, blood pressure, temperature, and oxygen saturation where available.
+Reviewing healthcare interactions since the last visit includes interim visits, home visits, pharmacy consultations, encounters with traditional providers, emergency unit visits, hospital admissions or referral follow-ups.
+Social factors like housing, work, education, and access to resources impact health. Identify any challenges that affect a person's ability to manage their health and address barriers to care.
+It is important to know about all medications that people are taking, including traditional therapies, and to understand if they are taking them as prescribed. Ask specifically about barriers to obtaining medicines and any side-effects.
+A relevant physical examination may include a comprehensive or targeted exam depending on the reason for the encounter. Every clinical encounter should include some type of physical examination.
+Keeping an up-to-date problem list is essential to effective primary care. This should include current and new diagnoses, specific health or social issues, and health maintenance interventions. This list can be rapidly reviewed at every visit.
+Specific promotive and preventive interventions are indicated across the life course and in association with specific conditions and contexts. This should include relevant vaccines, counselling and screening tests.
+Follow-up instructions should be explicitly discussed and documented. This should include any planned appointments or referrals and specific instructions on when to seek urgent care. Effective documentation improves continuity and coordination of care and enhances patient safety. Every visit should conclude with written or electronic documentation.
