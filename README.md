@@ -77,7 +77,8 @@ ChromaDB-backed RAG pipeline were explored in the Colab notebooks under
 pipeline. See the notebooks for details:
 
 - `team_selous_finetune.ipynb` — retrieval-assisted LoRA fine-tuning with
-  cross-validation.
+  cross-validation. **This notebook produces the final leaderboard
+  submission** (`submissions/submission.csv`).
 - `team_selous_rag_finetune_v2.ipynb` — full RAG + ChromaDB + SFT training
   + inference pipeline (Colab/Kaggle GPU required).
 
@@ -166,6 +167,7 @@ selous-health-qa/
 │   ├── team_selous_finetune.ipynb             # LoRA fine-tuning (Colab, GPU)
 │   └── team_selous_rag_finetune_v2.ipynb      # RAG + ChromaDB + SFT (Colab, GPU)
 ├── submissions/
+│   ├── submission.csv                # final leaderboard submission (from team_selous_finetune.ipynb)
 │   ├── baseline_submission.csv       # pre-generated baseline output
 │   └── tfidf_baseline_submission.csv # pre-generated TF-IDF output
 ├── docs/
